@@ -6270,3 +6270,1138 @@ season,GP,gp_code,session,Unnamed: 0,Pos,No,Driver,Car,Q1,Q2,Q3,Laps,Unnamed: 9
 2009,abu-dhabi,859,qualifying,,18,20,Adrian Sutil SUT,Force India Mercedes,1:41.863,,,10,
 2009,abu-dhabi,859,qualifying,,19,8,Romain Grosjean GRO,Renault,1:41.950,,,12,
 2009,abu-dhabi,859,qualifying,,20,3,Giancarlo Fisichella FIS,Ferrari,1:42.184,,,12,
+2008,australia,825,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:26.572,1:25.187,1:26.714,14
+2008,australia,825,qualifying,,2,4,Robert Kubica KUB,Sauber BMW,1:26.103,1:25.315,1:26.869,15
+2008,australia,825,qualifying,,3,23,Heikki Kovalainen KOV,McLaren Mercedes,1:25.664,1:25.452,1:27.079,13
+2008,australia,825,qualifying,,4,2,Felipe Massa MAS,Ferrari,1:25.994,1:25.691,1:27.178,12
+2008,australia,825,qualifying,,5,3,Nick Heidfeld HEI,Sauber BMW,1:25.960,1:25.518,1:27.236,16
+2008,australia,825,qualifying,,6,11,Jarno Trulli TRU,Toyota,1:26.427,1:26.101,1:28.527,17
+2008,australia,825,qualifying,,7,7,Nico Rosberg ROS,Williams Toyota,1:26.295,1:26.059,1:28.687,21
+2008,australia,825,qualifying,,8,9,David Coulthard COU,Red Bull Renault,1:26.381,1:26.063,1:29.041,18
+2008,australia,825,qualifying,,9,12,Timo Glock GLO,Toyota,1:26.919,1:26.164,1:29.593,17
+2008,australia,825,qualifying,,10,15,Sebastian Vettel VET,STR Ferrari,1:26.702,1:25.842,DNF,18
+2008,australia,825,qualifying,,11,17,Rubens Barrichello BAR,Honda,1:26.369,1:26.173,,13
+2008,australia,825,qualifying,,12,5,Fernando Alonso ALO,Renault,1:26.907,1:26.188,,10
+2008,australia,825,qualifying,,13,16,Jenson Button BUT,Honda,1:26.712,1:26.259,,13
+2008,australia,825,qualifying,,14,8,Kazuki Nakajima NAK,Williams Toyota,1:26.891,1:26.413,,13
+2008,australia,825,qualifying,,15,10,Mark Webber WEB,Red Bull Renault,1:26.914,DNF,,8
+2008,australia,825,qualifying,,16,1,Kimi Räikkönen RAI,Ferrari,1:26.140,,,3
+2008,australia,825,qualifying,,17,21,Giancarlo Fisichella FIS,Force India Ferrari,1:27.207,,,9
+2008,australia,825,qualifying,,18,14,Sebastien Bourdais BOU,STR Ferrari,1:27.446,,,10
+2008,australia,825,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:27.859,,,9
+2008,australia,825,qualifying,,20,18,Takuma Sato SAT,Super Aguri Honda,1:28.208,,,9
+2008,australia,825,qualifying,,21,6,Nelson Piquet PIQ,Renault,1:28.330,,,6
+2008,australia,825,qualifying,,22,19,Anthony Davidson DAV,Super Aguri Honda,1:29.059,,,9
+2008,malaysia,826,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:35.347,1:34.412,1:35.748,17
+2008,malaysia,826,qualifying,,2,1,Kimi Räikkönen RAI,Ferrari,1:35.645,1:34.188,1:36.230,13
+2008,malaysia,826,qualifying,,3,23,Heikki Kovalainen KOV,McLaren Mercedes,1:35.227,1:34.759,1:36.613,12
+2008,malaysia,826,qualifying,,4,22,Lewis Hamilton HAM,McLaren Mercedes,1:35.392,1:34.627,1:36.709,18
+2008,malaysia,826,qualifying,,5,11,Jarno Trulli TRU,Toyota,1:35.205,1:34.825,1:36.711,18
+2008,malaysia,826,qualifying,,6,4,Robert Kubica KUB,Sauber BMW,1:35.794,1:34.811,1:36.727,13
+2008,malaysia,826,qualifying,,7,3,Nick Heidfeld HEI,Sauber BMW,1:35.729,1:34.648,1:36.753,13
+2008,malaysia,826,qualifying,,8,10,Mark Webber WEB,Red Bull Renault,1:35.440,1:34.967,1:37.009,18
+2008,malaysia,826,qualifying,,9,5,Fernando Alonso ALO,Renault,1:35.983,1:35.140,1:38.450,18
+2008,malaysia,826,qualifying,,10,12,Timo Glock GLO,Toyota,1:35.891,1:35.000,1:39.656,20
+2008,malaysia,826,qualifying,,11,16,Jenson Button BUT,Honda,1:35.847,1:35.208,,15
+2008,malaysia,826,qualifying,,12,9,David Coulthard COU,Red Bull Renault,1:36.058,1:35.408,,12
+2008,malaysia,826,qualifying,,13,6,Nelson Piquet PIQ,Renault,1:36.074,1:35.562,,12
+2008,malaysia,826,qualifying,,14,17,Rubens Barrichello BAR,Honda,1:36.198,1:35.622,,15
+2008,malaysia,826,qualifying,,15,15,Sebastian Vettel VET,STR Ferrari,1:36.111,1:35.648,,15
+2008,malaysia,826,qualifying,,16,7,Nico Rosberg ROS,Williams Toyota,1:35.843,1:35.670,,13
+2008,malaysia,826,qualifying,,17,21,Giancarlo Fisichella FIS,Force India Ferrari,1:36.240,,,9
+2008,malaysia,826,qualifying,,18,8,Kazuki Nakajima NAK,Williams Toyota,1:36.388,,,9
+2008,malaysia,826,qualifying,,19,14,Sebastien Bourdais BOU,STR Ferrari,1:36.677,,,8
+2008,malaysia,826,qualifying,,20,18,Takuma Sato SAT,Super Aguri Honda,1:37.087,,,9
+2008,malaysia,826,qualifying,,21,20,Adrian Sutil SUT,Force India Ferrari,1:37.101,,,10
+2008,malaysia,826,qualifying,,22,19,Anthony Davidson DAV,Super Aguri Honda,1:37.481,,,9
+2008,bahrain,827,qualifying,,1,4,Robert Kubica KUB,Sauber BMW,1:32.893,1:31.745,1:33.096,12
+2008,bahrain,827,qualifying,,2,2,Felipe Massa MAS,Ferrari,1:31.937,1:31.188,1:33.123,12
+2008,bahrain,827,qualifying,,3,22,Lewis Hamilton HAM,McLaren Mercedes,1:32.750,1:31.922,1:33.292,13
+2008,bahrain,827,qualifying,,4,1,Kimi Räikkönen RAI,Ferrari,1:32.652,1:31.933,1:33.418,12
+2008,bahrain,827,qualifying,,5,23,Heikki Kovalainen KOV,McLaren Mercedes,1:33.057,1:31.718,1:33.488,12
+2008,bahrain,827,qualifying,,6,3,Nick Heidfeld HEI,Sauber BMW,1:33.137,1:31.909,1:33.737,15
+2008,bahrain,827,qualifying,,7,11,Jarno Trulli TRU,Toyota,1:32.493,1:32.159,1:33.994,19
+2008,bahrain,827,qualifying,,8,7,Nico Rosberg ROS,Williams Toyota,1:32.903,1:32.185,1:34.015,22
+2008,bahrain,827,qualifying,,9,16,Jenson Button BUT,Honda,1:32.793,1:32.362,1:35.057,17
+2008,bahrain,827,qualifying,,10,5,Fernando Alonso ALO,Renault,1:32.947,1:32.345,1:35.115,17
+2008,bahrain,827,qualifying,,11,10,Mark Webber WEB,Red Bull Renault,1:33.194,1:32.371,,12
+2008,bahrain,827,qualifying,,12,17,Rubens Barrichello BAR,Honda,1:32.944,1:32.508,,12
+2008,bahrain,827,qualifying,,13,12,Timo Glock GLO,Toyota,1:32.800,1:32.528,,15
+2008,bahrain,827,qualifying,,14,6,Nelson Piquet PIQ,Renault,1:32.975,1:32.790,,15
+2008,bahrain,827,qualifying,,15,14,Sebastien Bourdais BOU,STR Ferrari,1:33.415,1:32.915,,15
+2008,bahrain,827,qualifying,,16,8,Kazuki Nakajima NAK,Williams Toyota,1:33.386,1:32.943,,15
+2008,bahrain,827,qualifying,,17,9,David Coulthard COU,Red Bull Renault,1:33.433,,,7
+2008,bahrain,827,qualifying,,18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:33.501,,,5
+2008,bahrain,827,qualifying,,19,15,Sebastian Vettel VET,STR Ferrari,1:33.562,,,9
+2008,bahrain,827,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:33.845,,,6
+2008,bahrain,827,qualifying,,21,19,Anthony Davidson DAV,Super Aguri Honda,1:34.140,,,9
+2008,bahrain,827,qualifying,,22,18,Takuma Sato SAT,Super Aguri Honda,1:35.725,,,5
+2008,spain,828,qualifying,,1,1,Kimi Räikkönen RAI,Ferrari,1:20.701,1:20.784,1:21.813,17
+2008,spain,828,qualifying,,2,5,Fernando Alonso ALO,Renault,1:21.347,1:20.804,1:21.904,18
+2008,spain,828,qualifying,,3,2,Felipe Massa MAS,Ferrari,1:21.528,1:20.584,1:22.058,16
+2008,spain,828,qualifying,,4,4,Robert Kubica KUB,Sauber BMW,1:21.423,1:20.597,1:22.065,13
+2008,spain,828,qualifying,,5,22,Lewis Hamilton HAM,McLaren Mercedes,1:21.366,1:20.825,1:22.096,14
+2008,spain,828,qualifying,,6,23,Heikki Kovalainen KOV,McLaren Mercedes,1:21.430,1:20.817,1:22.231,15
+2008,spain,828,qualifying,,7,10,Mark Webber WEB,Red Bull Renault,1:21.494,1:20.984,1:22.429,19
+2008,spain,828,qualifying,,8,11,Jarno Trulli TRU,Toyota,1:21.158,1:20.907,1:22.529,19
+2008,spain,828,qualifying,,9,3,Nick Heidfeld HEI,Sauber BMW,1:21.466,1:20.815,1:22.542,20
+2008,spain,828,qualifying,,10,6,Nelson Piquet PIQ,Renault,1:21.409,1:20.894,1:22.699,18
+2008,spain,828,qualifying,,11,17,Rubens Barrichello BAR,Honda,1:21.548,1:21.049,,12
+2008,spain,828,qualifying,,12,8,Kazuki Nakajima NAK,Williams Toyota,1:21.690,1:21.117,,15
+2008,spain,828,qualifying,,13,16,Jenson Button BUT,Honda,1:21.757,1:21.211,,12
+2008,spain,828,qualifying,,14,12,Timo Glock GLO,Toyota,1:21.427,1:21.230,,16
+2008,spain,828,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:21.472,1:21.349,,15
+2008,spain,828,qualifying,,16,14,Sebastien Bourdais BOU,STR Ferrari,1:21.540,1:21.724,,15
+2008,spain,828,qualifying,,17,9,David Coulthard COU,Red Bull Renault,1:21.810,,,6
+2008,spain,828,qualifying,,18,15,Sebastian Vettel VET,STR Ferrari,1:22.108,,,10
+2008,spain,828,qualifying,,19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:22.516,,,11
+2008,spain,828,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:23.224,,,8
+2008,spain,828,qualifying,,21,19,Anthony Davidson DAV,Super Aguri Honda,1:23.318,,,9
+2008,spain,828,qualifying,,22,18,Takuma Sato SAT,Super Aguri Honda,1:23.496,,,9
+2008,turkey,829,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:25.994,1:26.192,1:27.617,16
+2008,turkey,829,qualifying,,2,23,Heikki Kovalainen KOV,McLaren Mercedes,1:26.736,1:26.290,1:27.808,16
+2008,turkey,829,qualifying,,3,22,Lewis Hamilton HAM,McLaren Mercedes,1:26.192,1:26.477,1:27.923,15
+2008,turkey,829,qualifying,,4,1,Kimi Räikkönen RAI,Ferrari,1:26.457,1:26.050,1:27.936,17
+2008,turkey,829,qualifying,,5,4,Robert Kubica KUB,Sauber BMW,1:26.761,1:26.129,1:28.390,17
+2008,turkey,829,qualifying,,6,10,Mark Webber WEB,Red Bull Renault,1:26.773,1:26.466,1:28.417,17
+2008,turkey,829,qualifying,,7,5,Fernando Alonso ALO,Renault,1:26.836,1:26.522,1:28.422,18
+2008,turkey,829,qualifying,,8,11,Jarno Trulli TRU,Toyota,1:26.695,1:26.822,1:28.836,20
+2008,turkey,829,qualifying,,9,3,Nick Heidfeld HEI,Sauber BMW,1:27.107,1:26.607,1:28.882,20
+2008,turkey,829,qualifying,,10,9,David Coulthard COU,Red Bull Renault,1:26.939,1:26.520,1:29.959,16
+2008,turkey,829,qualifying,,11,7,Nico Rosberg ROS,Williams Toyota,1:27.367,1:27.012,,13
+2008,turkey,829,qualifying,,12,17,Rubens Barrichello BAR,Honda,1:27.355,1:27.219,,13
+2008,turkey,829,qualifying,,13,16,Jenson Button BUT,Honda,1:27.428,1:27.298,,14
+2008,turkey,829,qualifying,,14,15,Sebastian Vettel VET,STR Ferrari,1:27.442,1:27.412,,15
+2008,turkey,829,qualifying,,15,12,Timo Glock GLO,Toyota,1:26.614,1:27.806,,15
+2008,turkey,829,qualifying,,16,8,Kazuki Nakajima NAK,Williams Toyota,1:27.547,,,9
+2008,turkey,829,qualifying,,17,6,Nelson Piquet PIQ,Renault,1:27.568,,,7
+2008,turkey,829,qualifying,,18,14,Sebastien Bourdais BOU,STR Ferrari,1:27.621,,,8
+2008,turkey,829,qualifying,,19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:27.807,,,10
+2008,turkey,829,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:28.325,,,9
+2008,monaco,830,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:15.190,1:15.110,1:15.787,20
+2008,monaco,830,qualifying,,2,1,Kimi Räikkönen RAI,Ferrari,1:15.717,1:15.404,1:15.815,19
+2008,monaco,830,qualifying,,3,22,Lewis Hamilton HAM,McLaren Mercedes,1:15.582,1:15.322,1:15.839,20
+2008,monaco,830,qualifying,,4,23,Heikki Kovalainen KOV,McLaren Mercedes,1:15.295,1:15.389,1:16.165,25
+2008,monaco,830,qualifying,,5,4,Robert Kubica KUB,Sauber BMW,1:15.977,1:15.483,1:16.171,18
+2008,monaco,830,qualifying,,6,7,Nico Rosberg ROS,Williams Toyota,1:15.935,1:15.287,1:16.548,24
+2008,monaco,830,qualifying,,7,5,Fernando Alonso ALO,Renault,1:16.646,1:15.827,1:16.852,20
+2008,monaco,830,qualifying,,8,11,Jarno Trulli TRU,Toyota,1:16.306,1:15.598,1:17.203,21
+2008,monaco,830,qualifying,,9,10,Mark Webber WEB,Red Bull Renault,1:16.074,1:15.745,1:17.343,19
+2008,monaco,830,qualifying,,10,9,David Coulthard COU,Red Bull Renault,1:16.086,1:15.839,,18
+2008,monaco,830,qualifying,,11,12,Timo Glock GLO,Toyota,1:16.285,1:15.907,,16
+2008,monaco,830,qualifying,,12,16,Jenson Button BUT,Honda,1:16.259,1:16.101,,13
+2008,monaco,830,qualifying,,13,3,Nick Heidfeld HEI,Sauber BMW,1:16.650,1:16.455,,14
+2008,monaco,830,qualifying,,14,8,Kazuki Nakajima NAK,Williams Toyota,1:16.756,1:16.479,,16
+2008,monaco,830,qualifying,,15,17,Rubens Barrichello BAR,Honda,1:16.208,1:16.537,,12
+2008,monaco,830,qualifying,,16,14,Sebastien Bourdais BOU,STR Ferrari,1:16.806,,,9
+2008,monaco,830,qualifying,,17,6,Nelson Piquet PIQ,Renault,1:16.933,,,8
+2008,monaco,830,qualifying,,18,15,Sebastian Vettel VET,STR Ferrari,1:16.955,,,11
+2008,monaco,830,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:17.225,,,12
+2008,monaco,830,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:17.823,,,8
+2008,canada,831,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:16.909,1:17.034,1:17.886,19
+2008,canada,831,qualifying,,2,4,Robert Kubica KUB,Sauber BMW,1:17.471,1:17.679,1:18.498,14
+2008,canada,831,qualifying,,3,1,Kimi Räikkönen RAI,Ferrari,1:17.301,1:17.364,1:18.735,23
+2008,canada,831,qualifying,,4,5,Fernando Alonso ALO,Renault,1:17.415,1:17.488,1:18.746,22
+2008,canada,831,qualifying,,5,7,Nico Rosberg ROS,Williams Toyota,1:17.991,1:17.891,1:18.844,26
+2008,canada,831,qualifying,,6,2,Felipe Massa MAS,Ferrari,1:17.231,1:17.353,1:19.048,23
+2008,canada,831,qualifying,,7,23,Heikki Kovalainen KOV,McLaren Mercedes,1:17.287,1:17.684,1:19.089,25
+2008,canada,831,qualifying,,8,3,Nick Heidfeld HEI,Sauber BMW,1:18.082,1:17.781,1:19.633,21
+2008,canada,831,qualifying,,9,17,Rubens Barrichello BAR,Honda,1:18.256,1:18.020,1:20.848,25
+2008,canada,831,qualifying,,10,10,Mark Webber WEB,Red Bull Renault,1:17.582,1:17.523,,15
+2008,canada,831,qualifying,,11,12,Timo Glock GLO,Toyota,1:18.321,1:18.031,,19
+2008,canada,831,qualifying,,12,8,Kazuki Nakajima NAK,Williams Toyota,1:17.638,1:18.062,,19
+2008,canada,831,qualifying,,13,9,David Coulthard COU,Red Bull Renault,1:18.168,1:18.238,,19
+2008,canada,831,qualifying,,14,11,Jarno Trulli TRU,Toyota,1:18.039,1:18.327,,16
+2008,canada,831,qualifying,,15,6,Nelson Piquet PIQ,Renault,1:18.505,1:18.393,,18
+2008,canada,831,qualifying,,16,14,Sebastien Bourdais BOU,STR Ferrari,1:18.916,,,10
+2008,canada,831,qualifying,,17,20,Adrian Sutil SUT,Force India Ferrari,1:19.108,,,12
+2008,canada,831,qualifying,,18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.165,,,12
+2008,canada,831,qualifying,,19,16,Jenson Button BUT,Honda,1:23.565,,,3
+2008,france,832,qualifying,,1,1,Kimi Räikkönen RAI,Ferrari,1:15.133,1:15.161,1:16.449,16
+2008,france,832,qualifying,,2,2,Felipe Massa MAS,Ferrari,1:15.024,1:15.041,1:16.490,17
+2008,france,832,qualifying,,3,22,Lewis Hamilton HAM,McLaren Mercedes,1:15.634,1:15.293,1:16.693,15
+2008,france,832,qualifying,,4,5,Fernando Alonso ALO,Renault,1:15.754,1:15.483,1:16.840,18
+2008,france,832,qualifying,,5,11,Jarno Trulli TRU,Toyota,1:15.521,1:15.362,1:16.920,19
+2008,france,832,qualifying,,6,23,Heikki Kovalainen KOV,McLaren Mercedes,1:15.965,1:15.639,1:16.944,18
+2008,france,832,qualifying,,7,4,Robert Kubica KUB,Sauber BMW,1:15.687,1:15.723,1:17.037,19
+2008,france,832,qualifying,,8,10,Mark Webber WEB,Red Bull Renault,1:16.020,1:15.488,1:17.233,18
+2008,france,832,qualifying,,9,9,David Coulthard COU,Red Bull Renault,1:15.802,1:15.654,1:17.426,19
+2008,france,832,qualifying,,10,12,Timo Glock GLO,Toyota,1:15.727,1:15.558,1:17.596,24
+2008,france,832,qualifying,,11,6,Nelson Piquet PIQ,Renault,1:15.848,1:15.770,,12
+2008,france,832,qualifying,,12,3,Nick Heidfeld HEI,Sauber BMW,1:16.006,1:15.786,,14
+2008,france,832,qualifying,,13,15,Sebastian Vettel VET,STR Ferrari,1:15.918,1:15.816,,17
+2008,france,832,qualifying,,14,14,Sebastien Bourdais BOU,STR Ferrari,1:16.072,1:16.045,,17
+2008,france,832,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:16.085,1:16.235,,12
+2008,france,832,qualifying,,16,8,Kazuki Nakajima NAK,Williams Toyota,1:16.243,,,9
+2008,france,832,qualifying,,17,16,Jenson Button BUT,Honda,1:16.306,,,9
+2008,france,832,qualifying,,18,17,Rubens Barrichello BAR,Honda,1:16.330,,,6
+2008,france,832,qualifying,,19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:16.971,,,10
+2008,france,832,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:17.053,,,9
+2008,great-britain,833,qualifying,,1,23,Heikki Kovalainen KOV,McLaren Mercedes,1:19.957,1:19.597,1:21.049,15
+2008,great-britain,833,qualifying,,2,10,Mark Webber WEB,Red Bull Renault,1:20.982,1:19.710,1:21.554,16
+2008,great-britain,833,qualifying,,3,1,Kimi Räikkönen RAI,Ferrari,1:20.370,1:19.971,1:21.706,18
+2008,great-britain,833,qualifying,,4,22,Lewis Hamilton HAM,McLaren Mercedes,1:20.288,1:19.537,1:21.835,13
+2008,great-britain,833,qualifying,,5,3,Nick Heidfeld HEI,Sauber BMW,1:21.022,1:19.802,1:21.873,16
+2008,great-britain,833,qualifying,,6,5,Fernando Alonso ALO,Renault,1:20.998,1:19.992,1:22.029,15
+2008,great-britain,833,qualifying,,7,6,Nelson Piquet PIQ,Renault,1:20.818,1:20.115,1:22.491,19
+2008,great-britain,833,qualifying,,8,15,Sebastian Vettel VET,STR Ferrari,1:20.318,1:20.109,1:23.251,16
+2008,great-britain,833,qualifying,,9,2,Felipe Massa MAS,Ferrari,1:20.676,1:20.086,1:23.305,16
+2008,great-britain,833,qualifying,,10,4,Robert Kubica KUB,Sauber BMW,1:20.444,1:19.788,DNF,12
+2008,great-britain,833,qualifying,,11,9,David Coulthard COU,Red Bull Renault,1:21.224,1:20.174,,14
+2008,great-britain,833,qualifying,,12,12,Timo Glock GLO,Toyota,1:20.893,1:20.274,,14
+2008,great-britain,833,qualifying,,13,14,Sebastien Bourdais BOU,STR Ferrari,1:20.584,1:20.531,,16
+2008,great-britain,833,qualifying,,14,11,Jarno Trulli TRU,Toyota,1:21.145,1:20.601,,13
+2008,great-britain,833,qualifying,,15,8,Kazuki Nakajima NAK,Williams Toyota,1:21.407,1:21.112,,14
+2008,great-britain,833,qualifying,,16,17,Rubens Barrichello BAR,Honda,1:21.512,,,9
+2008,great-britain,833,qualifying,,17,16,Jenson Button BUT,Honda,1:21.631,,,11
+2008,great-britain,833,qualifying,,18,7,Nico Rosberg ROS,Williams Toyota,1:21.668,,,6
+2008,great-britain,833,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:21.786,,,9
+2008,great-britain,833,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:21.885,,,8
+2008,germany,834,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:15.218,1:14.603,1:15.666,13
+2008,germany,834,qualifying,,2,2,Felipe Massa MAS,Ferrari,1:14.921,1:14.747,1:15.859,16
+2008,germany,834,qualifying,,3,23,Heikki Kovalainen KOV,McLaren Mercedes,1:15.476,1:14.855,1:16.143,17
+2008,germany,834,qualifying,,4,11,Jarno Trulli TRU,Toyota,1:15.560,1:15.122,1:16.191,21
+2008,germany,834,qualifying,,5,5,Fernando Alonso ALO,Renault,1:15.917,1:14.943,1:16.385,19
+2008,germany,834,qualifying,,6,1,Kimi Räikkönen RAI,Ferrari,1:15.201,1:14.949,1:16.389,19
+2008,germany,834,qualifying,,7,4,Robert Kubica KUB,Sauber BMW,1:15.985,1:15.109,1:16.521,20
+2008,germany,834,qualifying,,8,10,Mark Webber WEB,Red Bull Renault,1:15.900,1:15.481,1:17.014,20
+2008,germany,834,qualifying,,9,15,Sebastian Vettel VET,STR Ferrari,1:15.532,1:15.420,1:17.244,22
+2008,germany,834,qualifying,,10,9,David Coulthard COU,Red Bull Renault,1:15.975,1:15.338,1:17.503,20
+2008,germany,834,qualifying,,11,12,Timo Glock GLO,Toyota,1:15.560,1:15.508,,17
+2008,germany,834,qualifying,,12,3,Nick Heidfeld HEI,Sauber BMW,1:15.596,1:15.581,,14
+2008,germany,834,qualifying,,13,7,Nico Rosberg ROS,Williams Toyota,1:15.863,1:15.633,,16
+2008,germany,834,qualifying,,14,16,Jenson Button BUT,Honda,1:15.993,1:15.701,,15
+2008,germany,834,qualifying,,15,14,Sebastien Bourdais BOU,STR Ferrari,1:15.927,1:15.858,,15
+2008,germany,834,qualifying,,16,8,Kazuki Nakajima NAK,Williams Toyota,1:16.083,,,10
+2008,germany,834,qualifying,,17,6,Nelson Piquet PIQ,Renault,1:16.189,,,7
+2008,germany,834,qualifying,,18,17,Rubens Barrichello BAR,Honda,1:16.246,,,10
+2008,germany,834,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:16.657,,,10
+2008,germany,834,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:16.963,,,10
+2008,hungary,835,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:19.376,1:19.473,1:20.899,12
+2008,hungary,835,qualifying,,2,23,Heikki Kovalainen KOV,McLaren Mercedes,1:19.945,1:19.480,1:21.140,16
+2008,hungary,835,qualifying,,3,2,Felipe Massa MAS,Ferrari,1:19.578,1:19.068,1:21.191,16
+2008,hungary,835,qualifying,,4,4,Robert Kubica KUB,Sauber BMW,1:20.053,1:19.776,1:21.281,19
+2008,hungary,835,qualifying,,5,12,Timo Glock GLO,Toyota,1:19.980,1:19.246,1:21.326,24
+2008,hungary,835,qualifying,,6,1,Kimi Räikkönen RAI,Ferrari,1:20.006,1:19.546,1:21.516,19
+2008,hungary,835,qualifying,,7,5,Fernando Alonso ALO,Renault,1:20.229,1:19.816,1:21.698,15
+2008,hungary,835,qualifying,,8,10,Mark Webber WEB,Red Bull Renault,1:20.073,1:20.046,1:21.732,18
+2008,hungary,835,qualifying,,9,11,Jarno Trulli TRU,Toyota,1:19.942,1:19.486,1:21.767,20
+2008,hungary,835,qualifying,,10,6,Nelson Piquet PIQ,Renault,1:20.583,1:20.131,1:22.371,19
+2008,hungary,835,qualifying,,11,15,Sebastian Vettel VET,STR Ferrari,1:20.157,1:20.144,,17
+2008,hungary,835,qualifying,,12,16,Jenson Button BUT,Honda,1:20.888,1:20.332,,15
+2008,hungary,835,qualifying,,13,9,David Coulthard COU,Red Bull Renault,1:20.505,1:20.502,,16
+2008,hungary,835,qualifying,,14,14,Sebastien Bourdais BOU,STR Ferrari,1:20.640,1:20.963,,16
+2008,hungary,835,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:20.748,,,10
+2008,hungary,835,qualifying,,16,3,Nick Heidfeld HEI,Sauber BMW,1:21.045,,,7
+2008,hungary,835,qualifying,,17,8,Kazuki Nakajima NAK,Williams Toyota,1:21.085,,,9
+2008,hungary,835,qualifying,,18,17,Rubens Barrichello BAR,Honda,1:21.332,,,8
+2008,hungary,835,qualifying,,19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:21.670,,,9
+2008,hungary,835,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:22.113,,,10
+2008,europe,836,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:38.176,1:37.859,1:38.989,19
+2008,europe,836,qualifying,,2,22,Lewis Hamilton HAM,McLaren Mercedes,1:38.464,1:37.954,1:39.199,15
+2008,europe,836,qualifying,,3,4,Robert Kubica KUB,Sauber BMW,1:38.347,1:38.050,1:39.392,18
+2008,europe,836,qualifying,,4,1,Kimi Räikkönen RAI,Ferrari,1:38.703,1:38.229,1:39.488,21
+2008,europe,836,qualifying,,5,23,Heikki Kovalainen KOV,McLaren Mercedes,1:38.656,1:38.120,1:39.937,18
+2008,europe,836,qualifying,,6,15,Sebastian Vettel VET,STR Ferrari,1:38.141,1:37.842,1:40.142,19
+2008,europe,836,qualifying,,7,11,Jarno Trulli TRU,Toyota,1:37.948,1:37.928,1:40.309,21
+2008,europe,836,qualifying,,8,3,Nick Heidfeld HEI,Sauber BMW,1:38.738,1:37.859,1:40.631,19
+2008,europe,836,qualifying,,9,7,Nico Rosberg ROS,Williams Toyota,1:38.595,1:38.336,1:40.721,18
+2008,europe,836,qualifying,,10,14,Sebastien Bourdais BOU,STR Ferrari,1:38.622,1:38.417,1:40.750,18
+2008,europe,836,qualifying,,11,8,Kazuki Nakajima NAK,Williams Toyota,1:38.667,1:38.428,,15
+2008,europe,836,qualifying,,12,5,Fernando Alonso ALO,Renault,1:38.268,1:38.435,,12
+2008,europe,836,qualifying,,13,12,Timo Glock GLO,Toyota,1:38.532,1:38.499,,14
+2008,europe,836,qualifying,,14,10,Mark Webber WEB,Red Bull Renault,1:38.559,1:38.515,,15
+2008,europe,836,qualifying,,15,6,Nelson Piquet PIQ,Renault,1:38.787,1:38.744,,15
+2008,europe,836,qualifying,,16,16,Jenson Button BUT,Honda,1:38.880,,,6
+2008,europe,836,qualifying,,17,9,David Coulthard COU,Red Bull Renault,1:39.235,,,9
+2008,europe,836,qualifying,,18,21,Giancarlo Fisichella FIS,Force India Ferrari,1:39.268,,,10
+2008,europe,836,qualifying,,19,17,Rubens Barrichello BAR,Honda,1:39.811,,,10
+2008,europe,836,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:39.943,,,9
+2008,belgium,837,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:46.887,1:46.088,1:47.338,12
+2008,belgium,837,qualifying,,2,2,Felipe Massa MAS,Ferrari,1:46.873,1:46.391,1:47.678,16
+2008,belgium,837,qualifying,,3,23,Heikki Kovalainen KOV,McLaren Mercedes,1:46.812,1:46.037,1:47.815,16
+2008,belgium,837,qualifying,,4,1,Kimi Räikkönen RAI,Ferrari,1:46.960,1:46.298,1:47.992,14
+2008,belgium,837,qualifying,,5,3,Nick Heidfeld HEI,Sauber BMW,1:47.419,1:46.311,1:48.315,18
+2008,belgium,837,qualifying,,6,5,Fernando Alonso ALO,Renault,1:47.154,1:46.491,1:48.504,18
+2008,belgium,837,qualifying,,7,10,Mark Webber WEB,Red Bull Renault,1:47.270,1:46.814,1:48.736,19
+2008,belgium,837,qualifying,,8,4,Robert Kubica KUB,Sauber BMW,1:47.093,1:46.494,1:48.763,20
+2008,belgium,837,qualifying,,9,14,Sebastien Bourdais BOU,STR Ferrari,1:46.777,1:46.544,1:48.951,19
+2008,belgium,837,qualifying,,10,15,Sebastian Vettel VET,STR Ferrari,1:47.152,1:46.804,1:50.319,16
+2008,belgium,837,qualifying,,11,11,Jarno Trulli TRU,Toyota,1:47.400,1:46.949,,13
+2008,belgium,837,qualifying,,12,6,Nelson Piquet PIQ,Renault,1:47.052,1:46.965,,15
+2008,belgium,837,qualifying,,13,12,Timo Glock GLO,Toyota,1:47.359,1:46.995,,13
+2008,belgium,837,qualifying,,14,9,David Coulthard COU,Red Bull Renault,1:47.132,1:47.018,,15
+2008,belgium,837,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:47.503,1:47.429,,12
+2008,belgium,837,qualifying,,16,17,Rubens Barrichello BAR,Honda,1:48.153,,,9
+2008,belgium,837,qualifying,,17,16,Jenson Button BUT,Honda,1:48.211,,,9
+2008,belgium,837,qualifying,,18,20,Adrian Sutil SUT,Force India Ferrari,1:48.226,,,9
+2008,belgium,837,qualifying,,19,8,Kazuki Nakajima NAK,Williams Toyota,1:48.268,,,9
+2008,belgium,837,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:48.447,,,9
+2008,italy,838,qualifying,,1,15,Sebastian Vettel VET,STR Ferrari,1:35.464,1:35.837,1:37.555,28
+2008,italy,838,qualifying,,2,23,Heikki Kovalainen KOV,McLaren Mercedes,1:35.214,1:35.843,1:37.631,24
+2008,italy,838,qualifying,,3,10,Mark Webber WEB,Red Bull Renault,1:36.001,1:36.306,1:38.117,23
+2008,italy,838,qualifying,,4,14,Sebastien Bourdais BOU,STR Ferrari,1:35.543,1:36.175,1:38.445,28
+2008,italy,838,qualifying,,5,7,Nico Rosberg ROS,Williams Toyota,1:35.485,1:35.898,1:38.767,28
+2008,italy,838,qualifying,,6,2,Felipe Massa MAS,Ferrari,1:35.536,1:36.676,1:38.894,29
+2008,italy,838,qualifying,,7,11,Jarno Trulli TRU,Toyota,1:35.906,1:36.008,1:39.152,26
+2008,italy,838,qualifying,,8,5,Fernando Alonso ALO,Renault,1:36.297,1:36.518,1:39.751,28
+2008,italy,838,qualifying,,9,12,Timo Glock GLO,Toyota,1:35.737,1:36.525,1:39.787,28
+2008,italy,838,qualifying,,10,3,Nick Heidfeld HEI,Sauber BMW,1:35.709,1:36.626,1:39.906,26
+2008,italy,838,qualifying,,11,4,Robert Kubica KUB,Sauber BMW,1:35.553,1:36.697,,21
+2008,italy,838,qualifying,,12,21,Giancarlo Fisichella FIS,Force India Ferrari,1:36.280,1:36.698,,19
+2008,italy,838,qualifying,,13,9,David Coulthard COU,Red Bull Renault,1:36.485,1:37.284,,21
+2008,italy,838,qualifying,,14,1,Kimi Räikkönen RAI,Ferrari,1:35.965,1:37.522,,21
+2008,italy,838,qualifying,,15,22,Lewis Hamilton HAM,McLaren Mercedes,1:35.394,1:39.265,,19
+2008,italy,838,qualifying,,16,17,Rubens Barrichello BAR,Honda,1:36.510,,,12
+2008,italy,838,qualifying,,17,6,Nelson Piquet PIQ,Renault,1:36.630,,,13
+2008,italy,838,qualifying,,18,8,Kazuki Nakajima NAK,Williams Toyota,1:36.653,,,13
+2008,italy,838,qualifying,,19,16,Jenson Button BUT,Honda,1:37.006,,,13
+2008,italy,838,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:37.417,,,12
+2008,singapore,839,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:44.519,1:44.014,1:44.801,16
+2008,singapore,839,qualifying,,2,22,Lewis Hamilton HAM,McLaren Mercedes,1:44.501,1:44.932,1:45.465,14
+2008,singapore,839,qualifying,,3,1,Kimi Räikkönen RAI,Ferrari,1:44.282,1:44.232,1:45.617,16
+2008,singapore,839,qualifying,,4,4,Robert Kubica KUB,Sauber BMW,1:44.740,1:44.519,1:45.779,18
+2008,singapore,839,qualifying,,5,23,Heikki Kovalainen KOV,McLaren Mercedes,1:44.311,1:44.207,1:45.873,19
+2008,singapore,839,qualifying,,6,3,Nick Heidfeld HEI,Sauber BMW,1:45.548,1:44.520,1:45.964,19
+2008,singapore,839,qualifying,,7,15,Sebastian Vettel VET,STR Ferrari,1:45.042,1:44.261,1:46.244,15
+2008,singapore,839,qualifying,,8,12,Timo Glock GLO,Toyota,1:45.184,1:44.441,1:46.328,21
+2008,singapore,839,qualifying,,9,7,Nico Rosberg ROS,Williams Toyota,1:45.103,1:44.429,1:46.611,17
+2008,singapore,839,qualifying,,10,8,Kazuki Nakajima NAK,Williams Toyota,1:45.127,1:44.826,1:47.547,20
+2008,singapore,839,qualifying,,11,11,Jarno Trulli TRU,Toyota,1:45.642,1:45.038,,12
+2008,singapore,839,qualifying,,12,16,Jenson Button BUT,Honda,1:45.660,1:45.133,,14
+2008,singapore,839,qualifying,,13,10,Mark Webber WEB,Red Bull Renault,1:45.493,1:45.212,,12
+2008,singapore,839,qualifying,,14,9,David Coulthard COU,Red Bull Renault,1:46.028,1:45.298,,16
+2008,singapore,839,qualifying,,15,5,Fernando Alonso ALO,Renault,1:44.971,DNS,,6
+2008,singapore,839,qualifying,,16,6,Nelson Piquet PIQ,Renault,1:46.037,,,6
+2008,singapore,839,qualifying,,17,14,Sebastien Bourdais BOU,STR Ferrari,1:46.389,,,6
+2008,singapore,839,qualifying,,18,17,Rubens Barrichello BAR,Honda,1:46.583,,,7
+2008,singapore,839,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:47.940,,,10
+2008,singapore,839,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,DNF,,,2
+2008,japan,840,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:18.071,1:17.462,1:18.404,15
+2008,japan,840,qualifying,,2,1,Kimi Räikkönen RAI,Ferrari,1:18.160,1:17.733,1:18.644,20
+2008,japan,840,qualifying,,3,23,Heikki Kovalainen KOV,McLaren Mercedes,1:18.220,1:17.360,1:18.821,22
+2008,japan,840,qualifying,,4,5,Fernando Alonso ALO,Renault,1:18.290,1:17.871,1:18.852,19
+2008,japan,840,qualifying,,5,2,Felipe Massa MAS,Ferrari,1:18.110,1:17.287,1:18.874,18
+2008,japan,840,qualifying,,6,4,Robert Kubica KUB,Sauber BMW,1:18.684,1:17.931,1:18.979,20
+2008,japan,840,qualifying,,7,11,Jarno Trulli TRU,Toyota,1:18.501,1:17.541,1:19.026,23
+2008,japan,840,qualifying,,8,12,Timo Glock GLO,Toyota,1:17.945,1:17.670,1:19.118,24
+2008,japan,840,qualifying,,9,15,Sebastian Vettel VET,STR Ferrari,1:18.559,1:17.714,1:19.638,21
+2008,japan,840,qualifying,,10,14,Sebastien Bourdais BOU,STR Ferrari,1:18.593,1:18.102,1:20.167,20
+2008,japan,840,qualifying,,11,9,David Coulthard COU,Red Bull Renault,1:18.303,1:18.187,,16
+2008,japan,840,qualifying,,12,6,Nelson Piquet PIQ,Renault,1:18.300,1:18.274,,11
+2008,japan,840,qualifying,,13,10,Mark Webber WEB,Red Bull Renault,1:18.372,1:18.354,,13
+2008,japan,840,qualifying,,14,8,Kazuki Nakajima NAK,Williams Toyota,1:18.640,1:18.594,,16
+2008,japan,840,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:18.740,1:18.672,,16
+2008,japan,840,qualifying,,16,3,Nick Heidfeld HEI,Sauber BMW,1:18.835,,,9
+2008,japan,840,qualifying,,17,17,Rubens Barrichello BAR,Honda,1:18.882,,,9
+2008,japan,840,qualifying,,18,16,Jenson Button BUT,Honda,1:19.100,,,11
+2008,japan,840,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:19.163,,,10
+2008,japan,840,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:19.910,,,10
+2008,china,841,qualifying,,1,22,Lewis Hamilton HAM,McLaren Mercedes,1:35.566,1:34.947,1:36.303,15
+2008,china,841,qualifying,,2,1,Kimi Räikkönen RAI,Ferrari,1:35.983,1:35.355,1:36.645,15
+2008,china,841,qualifying,,3,2,Felipe Massa MAS,Ferrari,1:35.971,1:35.135,1:36.889,16
+2008,china,841,qualifying,,4,5,Fernando Alonso ALO,Renault,1:35.769,1:35.461,1:36.927,18
+2008,china,841,qualifying,,5,23,Heikki Kovalainen KOV,McLaren Mercedes,1:35.623,1:35.216,1:36.930,16
+2008,china,841,qualifying,,6,10,Mark Webber WEB,Red Bull Renault,1:36.238,1:35.686,1:37.083,19
+2008,china,841,qualifying,,7,3,Nick Heidfeld HEI,Sauber BMW,1:36.224,1:35.403,1:37.201,17
+2008,china,841,qualifying,,8,15,Sebastian Vettel VET,STR Ferrari,1:35.752,1:35.386,1:37.685,16
+2008,china,841,qualifying,,9,11,Jarno Trulli TRU,Toyota,1:36.104,1:35.715,1:37.934,19
+2008,china,841,qualifying,,10,14,Sebastien Bourdais BOU,STR Ferrari,1:36.239,1:35.478,1:38.885,18
+2008,china,841,qualifying,,11,6,Nelson Piquet PIQ,Renault,1:36.029,1:35.722,,12
+2008,china,841,qualifying,,12,4,Robert Kubica KUB,Sauber BMW,1:36.503,1:35.814,,14
+2008,china,841,qualifying,,13,12,Timo Glock GLO,Toyota,1:36.210,1:35.937,,16
+2008,china,841,qualifying,,14,17,Rubens Barrichello BAR,Honda,1:36.640,1:36.079,,15
+2008,china,841,qualifying,,15,7,Nico Rosberg ROS,Williams Toyota,1:36.434,1:36.210,,15
+2008,china,841,qualifying,,16,9,David Coulthard COU,Red Bull Renault,1:36.731,,,7
+2008,china,841,qualifying,,17,8,Kazuki Nakajima NAK,Williams Toyota,1:36.863,,,9
+2008,china,841,qualifying,,18,16,Jenson Button BUT,Honda,1:37.053,,,9
+2008,china,841,qualifying,,19,20,Adrian Sutil SUT,Force India Ferrari,1:37.730,,,9
+2008,china,841,qualifying,,20,21,Giancarlo Fisichella FIS,Force India Ferrari,1:37.739,,,9
+2008,brazil,842,qualifying,,1,2,Felipe Massa MAS,Ferrari,1:11.830,1:11.875,1:12.368,17
+2008,brazil,842,qualifying,,2,11,Jarno Trulli TRU,Toyota,1:12.226,1:12.107,1:12.737,15
+2008,brazil,842,qualifying,,3,1,Kimi Räikkönen RAI,Ferrari,1:12.083,1:11.950,1:12.825,19
+2008,brazil,842,qualifying,,4,22,Lewis Hamilton HAM,McLaren Mercedes,1:12.213,1:11.856,1:12.830,14
+2008,brazil,842,qualifying,,5,23,Heikki Kovalainen KOV,McLaren Mercedes,1:12.366,1:11.768,1:12.917,17
+2008,brazil,842,qualifying,,6,5,Fernando Alonso ALO,Renault,1:12.214,1:12.090,1:12.967,18
+2008,brazil,842,qualifying,,7,15,Sebastian Vettel VET,STR Ferrari,1:12.390,1:11.845,1:13.082,20
+2008,brazil,842,qualifying,,8,3,Nick Heidfeld HEI,Sauber BMW,1:12.371,1:12.026,1:13.297,18
+2008,brazil,842,qualifying,,9,14,Sebastien Bourdais BOU,STR Ferrari,1:12.498,1:12.075,1:14.105,16
+2008,brazil,842,qualifying,,10,12,Timo Glock GLO,Toyota,1:12.223,1:11.909,1:14.230,24
+2008,brazil,842,qualifying,,11,6,Nelson Piquet PIQ,Renault,1:12.348,1:12.137,,13
+2008,brazil,842,qualifying,,12,10,Mark Webber WEB,Red Bull Renault,1:12.409,1:12.289,,13
+2008,brazil,842,qualifying,,13,4,Robert Kubica KUB,Sauber BMW,1:12.381,1:12.300,,13
+2008,brazil,842,qualifying,,14,9,David Coulthard COU,Red Bull Renault,1:12.690,1:12.717,,16
+2008,brazil,842,qualifying,,15,17,Rubens Barrichello BAR,Honda,1:12.548,1:13.139,,14
+2008,brazil,842,qualifying,,16,8,Kazuki Nakajima NAK,Williams Toyota,1:12.800,,,9
+2008,brazil,842,qualifying,,17,16,Jenson Button BUT,Honda,1:12.810,,,9
+2008,brazil,842,qualifying,,18,7,Nico Rosberg ROS,Williams Toyota,1:13.002,,,8
+2008,brazil,842,qualifying,,19,21,Giancarlo Fisichella FIS,Force India Ferrari,1:13.426,,,9
+2008,brazil,842,qualifying,,20,20,Adrian Sutil SUT,Force India Ferrari,1:13.508,,,9
+2007,australia,808,qualifying,,1,6,Kimi Räikkönen RAI,Ferrari,1:26.644,1:25.644,1:26.072,17
+2007,australia,808,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:26.697,1:25.326,1:26.493,19
+2007,australia,808,qualifying,,3,9,Nick Heidfeld HEI,Sauber BMW,1:26.895,1:25.358,1:26.556,21
+2007,australia,808,qualifying,,4,2,Lewis Hamilton HAM,McLaren Mercedes,1:26.674,1:25.577,1:26.755,16
+2007,australia,808,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:26.696,1:25.882,1:27.347,19
+2007,australia,808,qualifying,,6,3,Giancarlo Fisichella FIS,Renault,1:27.270,1:25.944,1:27.634,21
+2007,australia,808,qualifying,,7,15,Mark Webber WEB,Red Bull Renault,1:26.978,1:26.623,1:27.934,23
+2007,australia,808,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:27.014,1:26.688,1:28.404,23
+2007,australia,808,qualifying,,9,11,Ralf Schumacher RSC,Toyota,1:27.328,1:26.739,1:28.692,22
+2007,australia,808,qualifying,,10,22,Takuma Sato SAT,Super Aguri Honda,1:27.365,1:26.758,1:28.871,23
+2007,australia,808,qualifying,,11,23,Anthony Davidson DAV,Super Aguri Honda,1:26.986,1:26.909,,12
+2007,australia,808,qualifying,,12,16,Nico Rosberg ROS,Williams Toyota,1:27.596,1:26.914,,13
+2007,australia,808,qualifying,,13,4,Heikki Kovalainen KOV,Renault,1:27.529,1:26.964,,10
+2007,australia,808,qualifying,,14,7,Jenson Button BUT,Honda,1:27.540,1:27.264,,14
+2007,australia,808,qualifying,,15,17,Alexander Wurz WUR,Williams Toyota,1:27.479,1:27.393,,13
+2007,australia,808,qualifying,,16,5,Felipe Massa MAS,Ferrari,1:26.712,DNF,,6
+2007,australia,808,qualifying,,17,8,Rubens Barrichello BAR,Honda,1:27.679,,,9
+2007,australia,808,qualifying,,18,19,Scott Speed SPE,STR Ferrari,1:28.305,,,7
+2007,australia,808,qualifying,,19,14,David Coulthard COU,Red Bull Renault,1:28.579,,,6
+2007,australia,808,qualifying,,20,18,Vitantonio Liuzzi LIU,STR Ferrari,1:29.267,,,6
+2007,australia,808,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:29.339,,,6
+2007,australia,808,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,1:31.932,,,7
+2007,malaysia,809,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:35.340,1:34.454,1:35.043,16
+2007,malaysia,809,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:34.942,1:34.057,1:35.310,16
+2007,malaysia,809,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:35.138,1:34.687,1:35.479,16
+2007,malaysia,809,qualifying,,4,2,Lewis Hamilton HAM,McLaren Mercedes,1:35.028,1:34.650,1:36.045,16
+2007,malaysia,809,qualifying,,5,9,Nick Heidfeld HEI,Sauber BMW,1:35.617,1:35.203,1:36.543,19
+2007,malaysia,809,qualifying,,6,16,Nico Rosberg ROS,Williams Toyota,1:35.755,1:35.380,1:36.829,22
+2007,malaysia,809,qualifying,,7,10,Robert Kubica KUB,Sauber BMW,1:35.294,1:34.739,1:36.896,14
+2007,malaysia,809,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:35.666,1:35.255,1:36.902,23
+2007,malaysia,809,qualifying,,9,11,Ralf Schumacher RSC,Toyota,1:35.736,1:35.595,1:37.078,22
+2007,malaysia,809,qualifying,,10,15,Mark Webber WEB,Red Bull Renault,1:35.727,1:35.579,1:37.345,21
+2007,malaysia,809,qualifying,,11,4,Heikki Kovalainen KOV,Renault,1:36.092,1:35.630,,12
+2007,malaysia,809,qualifying,,12,3,Giancarlo Fisichella FIS,Renault,1:35.879,1:35.706,,12
+2007,malaysia,809,qualifying,,13,14,David Coulthard COU,Red Bull Renault,1:35.730,1:35.766,,12
+2007,malaysia,809,qualifying,,14,22,Takuma Sato SAT,Super Aguri Honda,1:36.430,1:35.945,,12
+2007,malaysia,809,qualifying,,15,7,Jenson Button BUT,Honda,1:35.913,1:36.088,,15
+2007,malaysia,809,qualifying,,16,18,Vitantonio Liuzzi LIU,STR Ferrari,1:36.140,1:36.145,,12
+2007,malaysia,809,qualifying,,17,19,Scott Speed SPE,STR Ferrari,1:36.578,,,6
+2007,malaysia,809,qualifying,,18,23,Anthony Davidson DAV,Super Aguri Honda,1:36.816,,,6
+2007,malaysia,809,qualifying,,19,8,Rubens Barrichello BAR,Honda,1:36.827,,,7
+2007,malaysia,809,qualifying,,20,17,Alexander Wurz WUR,Williams Toyota,1:37.326,,,5
+2007,malaysia,809,qualifying,,21,21,Christijan Albers ALB,Spyker Ferrari,1:38.279,,,6
+2007,malaysia,809,qualifying,,22,20,Adrian Sutil SUT,Spyker Ferrari,1:38.415,,,6
+2007,bahrain,810,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:32.443,1:31.359,1:32.652,16
+2007,bahrain,810,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:32.580,1:31.732,1:32.935,16
+2007,bahrain,810,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:33.161,1:31.812,1:33.131,16
+2007,bahrain,810,qualifying,,4,1,Fernando Alonso ALO,McLaren Mercedes,1:33.049,1:32.214,1:33.192,16
+2007,bahrain,810,qualifying,,5,9,Nick Heidfeld HEI,Sauber BMW,1:33.164,1:32.154,1:33.404,17
+2007,bahrain,810,qualifying,,6,10,Robert Kubica KUB,Sauber BMW,1:33.348,1:32.292,1:33.710,17
+2007,bahrain,810,qualifying,,7,3,Giancarlo Fisichella FIS,Renault,1:33.556,1:32.889,1:34.056,22
+2007,bahrain,810,qualifying,,8,15,Mark Webber WEB,Red Bull Renault,1:33.496,1:32.808,1:34.106,22
+2007,bahrain,810,qualifying,,9,12,Jarno Trulli TRU,Toyota,1:33.218,1:32.429,1:34.154,22
+2007,bahrain,810,qualifying,,10,16,Nico Rosberg ROS,Williams Toyota,1:33.349,1:32.815,1:34.399,22
+2007,bahrain,810,qualifying,,11,17,Alexander Wurz WUR,Williams Toyota,1:33.759,1:32.915,,12
+2007,bahrain,810,qualifying,,12,4,Heikki Kovalainen KOV,Renault,1:33.467,1:32.935,,12
+2007,bahrain,810,qualifying,,13,23,Anthony Davidson DAV,Super Aguri Honda,1:33.299,1:33.082,,12
+2007,bahrain,810,qualifying,,14,11,Ralf Schumacher RSC,Toyota,1:33.923,1:33.294,,13
+2007,bahrain,810,qualifying,,15,8,Rubens Barrichello BAR,Honda,1:33.776,1:33.624,,12
+2007,bahrain,810,qualifying,,16,7,Jenson Button BUT,Honda,1:33.967,1:33.731,,14
+2007,bahrain,810,qualifying,,17,22,Takuma Sato SAT,Super Aguri Honda,1:33.984,,,6
+2007,bahrain,810,qualifying,,18,18,Vitantonio Liuzzi LIU,STR Ferrari,1:34.024,,,6
+2007,bahrain,810,qualifying,,19,19,Scott Speed SPE,STR Ferrari,1:34.333,,,6
+2007,bahrain,810,qualifying,,20,20,Adrian Sutil SUT,Spyker Ferrari,1:35.280,,,8
+2007,bahrain,810,qualifying,,21,14,David Coulthard COU,Red Bull Renault,1:35.341,,,4
+2007,bahrain,810,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,1:35.533,,,7
+2007,spain,811,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:21.375,1:20.597,1:21.421,17
+2007,spain,811,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:21.609,1:20.797,1:21.451,17
+2007,spain,811,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:21.802,1:20.741,1:21.723,17
+2007,spain,811,qualifying,,4,2,Lewis Hamilton HAM,McLaren Mercedes,1:21.120,1:20.713,1:21.785,17
+2007,spain,811,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:21.941,1:21.381,1:22.253,21
+2007,spain,811,qualifying,,6,12,Jarno Trulli TRU,Toyota,1:22.501,1:21.554,1:22.324,25
+2007,spain,811,qualifying,,7,9,Nick Heidfeld HEI,Sauber BMW,1:21.625,1:21.113,1:22.389,18
+2007,spain,811,qualifying,,8,4,Heikki Kovalainen KOV,Renault,1:21.790,1:21.623,1:22.568,23
+2007,spain,811,qualifying,,9,14,David Coulthard COU,Red Bull Renault,1:22.491,1:21.488,1:22.749,22
+2007,spain,811,qualifying,,10,3,Giancarlo Fisichella FIS,Renault,1:22.064,1:21.677,1:22.881,23
+2007,spain,811,qualifying,,11,16,Nico Rosberg ROS,Williams Toyota,1:21.943,1:21.968,,13
+2007,spain,811,qualifying,,12,8,Rubens Barrichello BAR,Honda,1:22.502,1:22.097,,12
+2007,spain,811,qualifying,,13,22,Takuma Sato SAT,Super Aguri Honda,1:22.090,1:22.115,,9
+2007,spain,811,qualifying,,14,7,Jenson Button BUT,Honda,1:22.503,1:22.120,,12
+2007,spain,811,qualifying,,15,23,Anthony Davidson DAV,Super Aguri Honda,1:22.295,DNF,,10
+2007,spain,811,qualifying,,16,18,Vitantonio Liuzzi LIU,STR Ferrari,1:22.508,,,7
+2007,spain,811,qualifying,,17,11,Ralf Schumacher RSC,Toyota,1:22.666,,,7
+2007,spain,811,qualifying,,18,17,Alexander Wurz WUR,Williams Toyota,1:22.769,,,7
+2007,spain,811,qualifying,,19,15,Mark Webber WEB,Red Bull Renault,1:23.398,,,3
+2007,spain,811,qualifying,,20,20,Adrian Sutil SUT,Spyker Ferrari,1:23.811,,,8
+2007,spain,811,qualifying,,21,21,Christijan Albers ALB,Spyker Ferrari,1:23.990,,,8
+2007,spain,811,qualifying,,22,19,Scott Speed SPE,STR Ferrari,DNF,,,2
+2007,monaco,812,qualifying,,1,1,Fernando Alonso ALO,McLaren Mercedes,1:16.059,1:15.431,1:15.726,22
+2007,monaco,812,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:15.685,1:15.479,1:15.905,22
+2007,monaco,812,qualifying,,3,5,Felipe Massa MAS,Ferrari,1:16.786,1:16.034,1:15.967,27
+2007,monaco,812,qualifying,,4,3,Giancarlo Fisichella FIS,Renault,1:17.596,1:16.054,1:16.285,24
+2007,monaco,812,qualifying,,5,16,Nico Rosberg ROS,Williams Toyota,1:16.870,1:16.100,1:16.439,24
+2007,monaco,812,qualifying,,6,15,Mark Webber WEB,Red Bull Renault,1:17.816,1:16.420,1:16.784,25
+2007,monaco,812,qualifying,,7,9,Nick Heidfeld HEI,Sauber BMW,1:17.385,1:15.733,1:16.832,24
+2007,monaco,812,qualifying,,8,10,Robert Kubica KUB,Sauber BMW,1:17.584,1:15.576,1:16.955,24
+2007,monaco,812,qualifying,,9,8,Rubens Barrichello BAR,Honda,1:17.244,1:16.454,1:17.498,27
+2007,monaco,812,qualifying,,10,7,Jenson Button BUT,Honda,1:17.297,1:16.457,1:17.939,28
+2007,monaco,812,qualifying,,11,14,David Coulthard COU,Red Bull Renault,1:17.204,1:16.319,,16
+2007,monaco,812,qualifying,,12,17,Alexander Wurz WUR,Williams Toyota,1:17.874,1:16.662,,16
+2007,monaco,812,qualifying,,13,18,Vitantonio Liuzzi LIU,STR Ferrari,1:16.720,1:16.703,,17
+2007,monaco,812,qualifying,,14,12,Jarno Trulli TRU,Toyota,1:17.686,1:16.988,,14
+2007,monaco,812,qualifying,,15,4,Heikki Kovalainen KOV,Renault,1:17.836,1:17.125,,16
+2007,monaco,812,qualifying,,16,6,Kimi Räikkönen RAI,Ferrari,1:16.251,DNF,,11
+2007,monaco,812,qualifying,,17,23,Anthony Davidson DAV,Super Aguri Honda,1:18.250,,,7
+2007,monaco,812,qualifying,,18,19,Scott Speed SPE,STR Ferrari,1:18.390,,,7
+2007,monaco,812,qualifying,,19,20,Adrian Sutil SUT,Spyker Ferrari,1:18.418,,,8
+2007,monaco,812,qualifying,,20,11,Ralf Schumacher RSC,Toyota,1:18.539,,,8
+2007,monaco,812,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:18.554,,,10
+2007,monaco,812,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,DNF,,,3
+2007,canada,813,qualifying,,1,2,Lewis Hamilton HAM,McLaren Mercedes,1:16.576,1:15.486,1:15.707,18
+2007,canada,813,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:16.562,1:15.522,1:16.163,18
+2007,canada,813,qualifying,,3,9,Nick Heidfeld HEI,Sauber BMW,1:17.006,1:15.960,1:16.266,23
+2007,canada,813,qualifying,,4,6,Kimi Räikkönen RAI,Ferrari,1:16.468,1:16.592,1:16.411,21
+2007,canada,813,qualifying,,5,5,Felipe Massa MAS,Ferrari,1:16.756,1:16.138,1:16.570,19
+2007,canada,813,qualifying,,6,15,Mark Webber WEB,Red Bull Renault,1:17.315,1:16.257,1:16.913,23
+2007,canada,813,qualifying,,7,16,Nico Rosberg ROS,Williams Toyota,1:17.016,1:16.190,1:16.919,24
+2007,canada,813,qualifying,,8,10,Robert Kubica KUB,Sauber BMW,1:17.267,1:16.368,1:16.993,26
+2007,canada,813,qualifying,,9,3,Giancarlo Fisichella FIS,Renault,1:16.805,1:16.288,1:17.229,24
+2007,canada,813,qualifying,,10,12,Jarno Trulli TRU,Toyota,1:17.324,1:16.600,1:17.747,26
+2007,canada,813,qualifying,,11,22,Takuma Sato SAT,Super Aguri Honda,1:17.490,1:16.743,,12
+2007,canada,813,qualifying,,12,18,Vitantonio Liuzzi LIU,STR Ferrari,1:17.541,1:16.760,,13
+2007,canada,813,qualifying,,13,8,Rubens Barrichello BAR,Honda,1:17.011,1:17.116,,12
+2007,canada,813,qualifying,,14,14,David Coulthard COU,Red Bull Renault,1:17.436,1:17.304,,15
+2007,canada,813,qualifying,,15,7,Jenson Button BUT,Honda,1:17.522,1:17.541,,12
+2007,canada,813,qualifying,,16,19,Scott Speed SPE,STR Ferrari,1:17.433,1:17.571,,13
+2007,canada,813,qualifying,,17,23,Anthony Davidson DAV,Super Aguri Honda,1:17.542,,,4
+2007,canada,813,qualifying,,18,11,Ralf Schumacher RSC,Toyota,1:17.634,,,8
+2007,canada,813,qualifying,,19,4,Heikki Kovalainen KOV,Renault,1:17.806,,,6
+2007,canada,813,qualifying,,20,17,Alexander Wurz WUR,Williams Toyota,1:18.089,,,5
+2007,canada,813,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:18.536,,,7
+2007,canada,813,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,1:19.196,,,7
+2007,united-states,814,qualifying,,1,2,Lewis Hamilton HAM,McLaren Mercedes,1:12.563,1:12.065,1:12.331,19
+2007,united-states,814,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:12.416,1:11.926,1:12.500,18
+2007,united-states,814,qualifying,,3,5,Felipe Massa MAS,Ferrari,1:12.731,1:12.180,1:12.703,20
+2007,united-states,814,qualifying,,4,6,Kimi Räikkönen RAI,Ferrari,1:12.732,1:12.111,1:12.839,22
+2007,united-states,814,qualifying,,5,9,Nick Heidfeld HEI,Sauber BMW,1:12.543,1:12.188,1:12.847,20
+2007,united-states,814,qualifying,,6,4,Heikki Kovalainen KOV,Renault,1:12.998,1:12.599,1:13.308,24
+2007,united-states,814,qualifying,,7,10,Sebastian Vettel VET,Sauber BMW,1:12.711,1:12.644,1:13.513,24
+2007,united-states,814,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:13.186,1:12.828,1:13.789,26
+2007,united-states,814,qualifying,,9,15,Mark Webber WEB,Red Bull Renault,1:13.425,1:12.788,1:13.871,25
+2007,united-states,814,qualifying,,10,3,Giancarlo Fisichella FIS,Renault,1:13.168,1:12.603,1:13.953,24
+2007,united-states,814,qualifying,,11,14,David Coulthard COU,Red Bull Renault,1:13.424,1:12.873,,15
+2007,united-states,814,qualifying,,12,11,Ralf Schumacher RSC,Toyota,1:12.851,1:12.920,,13
+2007,united-states,814,qualifying,,13,7,Jenson Button BUT,Honda,1:13.306,1:12.998,,12
+2007,united-states,814,qualifying,,14,16,Nico Rosberg ROS,Williams Toyota,1:13.128,1:13.060,,12
+2007,united-states,814,qualifying,,15,8,Rubens Barrichello BAR,Honda,1:13.203,1:13.201,,12
+2007,united-states,814,qualifying,,16,23,Anthony Davidson DAV,Super Aguri Honda,1:13.164,1:13.259,,13
+2007,united-states,814,qualifying,,17,17,Alexander Wurz WUR,Williams Toyota,1:13.441,,,6
+2007,united-states,814,qualifying,,18,22,Takuma Sato SAT,Super Aguri Honda,1:13.477,,,7
+2007,united-states,814,qualifying,,19,18,Vitantonio Liuzzi LIU,STR Ferrari,1:13.484,,,7
+2007,united-states,814,qualifying,,20,19,Scott Speed SPE,STR Ferrari,1:13.712,,,7
+2007,united-states,814,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:14.122,,,6
+2007,united-states,814,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,1:14.597,,,7
+2007,france,815,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:15.303,1:14.822,1:15.034,18
+2007,france,815,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:14.805,1:14.795,1:15.104,18
+2007,france,815,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:14.872,1:14.828,1:15.257,19
+2007,france,815,qualifying,,4,10,Robert Kubica KUB,Sauber BMW,1:15.778,1:15.066,1:15.493,22
+2007,france,815,qualifying,,5,3,Giancarlo Fisichella FIS,Renault,1:16.047,1:15.227,1:15.674,25
+2007,france,815,qualifying,,6,4,Heikki Kovalainen KOV,Renault,1:15.524,1:15.272,1:15.826,25
+2007,france,815,qualifying,,7,9,Nick Heidfeld HEI,Sauber BMW,1:15.783,1:15.149,1:15.900,23
+2007,france,815,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:16.118,1:15.379,1:15.935,23
+2007,france,815,qualifying,,9,16,Nico Rosberg ROS,Williams Toyota,1:16.092,1:15.331,1:16.328,25
+2007,france,815,qualifying,,10,1,Fernando Alonso ALO,McLaren Mercedes,1:15.322,1:15.084,DNS,7
+2007,france,815,qualifying,,11,11,Ralf Schumacher RSC,Toyota,1:15.760,1:15.534,,12
+2007,france,815,qualifying,,12,7,Jenson Button BUT,Honda,1:16.113,1:15.584,,12
+2007,france,815,qualifying,,13,8,Rubens Barrichello BAR,Honda,1:16.140,1:15.761,,12
+2007,france,815,qualifying,,14,15,Mark Webber WEB,Red Bull Renault,1:15.746,1:15.806,,11
+2007,france,815,qualifying,,15,19,Scott Speed SPE,STR Ferrari,1:15.980,1:16.049,,12
+2007,france,815,qualifying,,16,14,David Coulthard COU,Red Bull Renault,1:15.915,DNF,,9
+2007,france,815,qualifying,,17,18,Vitantonio Liuzzi LIU,STR Ferrari,1:16.142,,,6
+2007,france,815,qualifying,,18,17,Alexander Wurz WUR,Williams Toyota,1:16.241,,,7
+2007,france,815,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:16.244,,,6
+2007,france,815,qualifying,,20,23,Anthony Davidson DAV,Super Aguri Honda,1:16.366,,,5
+2007,france,815,qualifying,,21,21,Christijan Albers ALB,Spyker Ferrari,1:17.826,,,6
+2007,france,815,qualifying,,22,20,Adrian Sutil SUT,Spyker Ferrari,1:17.915,,,5
+2007,great-britain,816,qualifying,,1,2,Lewis Hamilton HAM,McLaren Mercedes,1:19.885,1:19.400,1:19.997,19
+2007,great-britain,816,qualifying,,2,6,Kimi Räikkönen RAI,Ferrari,1:19.753,1:19.252,1:20.099,18
+2007,great-britain,816,qualifying,,3,1,Fernando Alonso ALO,McLaren Mercedes,1:19.330,1:19.152,1:20.147,18
+2007,great-britain,816,qualifying,,4,5,Felipe Massa MAS,Ferrari,1:19.790,1:19.421,1:20.265,18
+2007,great-britain,816,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:20.294,1:20.054,1:20.401,22
+2007,great-britain,816,qualifying,,6,11,Ralf Schumacher RSC,Toyota,1:20.513,1:19.860,1:20.516,23
+2007,great-britain,816,qualifying,,7,4,Heikki Kovalainen KOV,Renault,1:20.570,1:20.077,1:20.721,24
+2007,great-britain,816,qualifying,,8,3,Giancarlo Fisichella FIS,Renault,1:20.842,1:20.042,1:20.775,24
+2007,great-britain,816,qualifying,,9,9,Nick Heidfeld HEI,Sauber BMW,1:20.534,1:20.178,1:20.894,17
+2007,great-britain,816,qualifying,,10,12,Jarno Trulli TRU,Toyota,1:21.150,1:20.133,1:21.240,24
+2007,great-britain,816,qualifying,,11,15,Mark Webber WEB,Red Bull Renault,1:20.583,1:20.235,,12
+2007,great-britain,816,qualifying,,12,14,David Coulthard COU,Red Bull Renault,1:21.154,1:20.329,,14
+2007,great-britain,816,qualifying,,13,17,Alexander Wurz WUR,Williams Toyota,1:20.830,1:20.350,,15
+2007,great-britain,816,qualifying,,14,8,Rubens Barrichello BAR,Honda,1:21.169,1:20.364,,12
+2007,great-britain,816,qualifying,,15,19,Scott Speed SPE,STR Ferrari,1:20.834,1:20.515,,12
+2007,great-britain,816,qualifying,,16,18,Vitantonio Liuzzi LIU,STR Ferrari,1:21.160,1:20.823,,15
+2007,great-britain,816,qualifying,,17,16,Nico Rosberg ROS,Williams Toyota,1:21.219,,,6
+2007,great-britain,816,qualifying,,18,7,Jenson Button BUT,Honda,1:21.335,,,6
+2007,great-britain,816,qualifying,,19,23,Anthony Davidson DAV,Super Aguri Honda,1:21.448,,,5
+2007,great-britain,816,qualifying,,20,20,Adrian Sutil SUT,Spyker Ferrari,1:22.019,,,8
+2007,great-britain,816,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:22.045,,,6
+2007,great-britain,816,qualifying,,22,21,Christijan Albers ALB,Spyker Ferrari,1:22.589,,,6
+2007,europe,817,qualifying,,1,6,Kimi Räikkönen RAI,Ferrari,1:31.522,1:31.237,1:31.450,16
+2007,europe,817,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:31.074,1:30.983,1:31.741,16
+2007,europe,817,qualifying,,3,5,Felipe Massa MAS,Ferrari,1:31.447,1:30.912,1:31.778,16
+2007,europe,817,qualifying,,4,9,Nick Heidfeld HEI,Sauber BMW,1:31.889,1:31.652,1:31.840,20
+2007,europe,817,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:31.961,1:31.444,1:32.123,20
+2007,europe,817,qualifying,,6,15,Mark Webber WEB,Red Bull Renault,1:32.629,1:31.661,1:32.476,22
+2007,europe,817,qualifying,,7,4,Heikki Kovalainen KOV,Renault,1:32.594,1:31.783,1:32.478,23
+2007,europe,817,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:32.381,1:31.859,1:32.501,22
+2007,europe,817,qualifying,,9,11,Ralf Schumacher RSC,Toyota,1:32.446,1:31.843,1:32.570,22
+2007,europe,817,qualifying,,10,2,Lewis Hamilton HAM,McLaren Mercedes,1:31.587,1:31.185,1:33.833,12
+2007,europe,817,qualifying,,11,16,Nico Rosberg ROS,Williams Toyota,1:32.117,1:31.978,,13
+2007,europe,817,qualifying,,12,17,Alexander Wurz WUR,Williams Toyota,1:32.173,1:31.996,,12
+2007,europe,817,qualifying,,13,3,Giancarlo Fisichella FIS,Renault,1:32.378,1:32.010,,13
+2007,europe,817,qualifying,,14,8,Rubens Barrichello BAR,Honda,1:32.674,1:32.221,,12
+2007,europe,817,qualifying,,15,23,Anthony Davidson DAV,Super Aguri Honda,1:32.793,1:32.451,,12
+2007,europe,817,qualifying,,16,22,Takuma Sato SAT,Super Aguri Honda,1:32.678,1:32.838,,11
+2007,europe,817,qualifying,,17,7,Jenson Button BUT,Honda,1:32.983,,,6
+2007,europe,817,qualifying,,18,19,Scott Speed SPE,STR Ferrari,1:33.038,,,6
+2007,europe,817,qualifying,,19,18,Vitantonio Liuzzi LIU,STR Ferrari,1:33.148,,,6
+2007,europe,817,qualifying,,20,14,David Coulthard COU,Red Bull Renault,1:33.151,,,6
+2007,europe,817,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:34.500,,,9
+2007,europe,817,qualifying,,22,21,Markus Winkelhock WIN,Spyker Ferrari,1:35.940,,,6
+2007,hungary,818,qualifying,,1,1,Fernando Alonso ALO,McLaren Mercedes,1:20.425,1:19.661,1:19.674,17
+2007,hungary,818,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:19.570,1:19.301,1:19.781,17
+2007,hungary,818,qualifying,,3,9,Nick Heidfeld HEI,Sauber BMW,1:20.751,1:20.322,1:20.259,22
+2007,hungary,818,qualifying,,4,6,Kimi Räikkönen RAI,Ferrari,1:20.435,1:20.107,1:20.410,19
+2007,hungary,818,qualifying,,5,16,Nico Rosberg ROS,Williams Toyota,1:20.547,1:20.188,1:20.632,22
+2007,hungary,818,qualifying,,6,11,Ralf Schumacher RSC,Toyota,1:20.449,1:20.455,1:20.714,24
+2007,hungary,818,qualifying,,7,10,Robert Kubica KUB,Sauber BMW,1:20.366,1:20.703,1:20.876,23
+2007,hungary,818,qualifying,,8,3,Giancarlo Fisichella FIS,Renault,1:21.645,1:20.590,1:21.079,25
+2007,hungary,818,qualifying,,9,12,Jarno Trulli TRU,Toyota,1:20.481,1:19.951,1:21.206,20
+2007,hungary,818,qualifying,,10,15,Mark Webber WEB,Red Bull Renault,1:20.794,1:20.439,1:21.256,22
+2007,hungary,818,qualifying,,11,14,David Coulthard COU,Red Bull Renault,1:21.291,1:20.718,,12
+2007,hungary,818,qualifying,,12,4,Heikki Kovalainen KOV,Renault,1:20.285,1:20.779,,12
+2007,hungary,818,qualifying,,13,17,Alexander Wurz WUR,Williams Toyota,1:21.243,1:20.865,,18
+2007,hungary,818,qualifying,,14,5,Felipe Massa MAS,Ferrari,1:20.408,1:21.021,,9
+2007,hungary,818,qualifying,,15,23,Anthony Davidson DAV,Super Aguri Honda,1:21.018,1:21.127,,12
+2007,hungary,818,qualifying,,16,18,Vitantonio Liuzzi LIU,STR Ferrari,1:21.730,1:21.993,,16
+2007,hungary,818,qualifying,,17,7,Jenson Button BUT,Honda,1:21.737,,,6
+2007,hungary,818,qualifying,,18,8,Rubens Barrichello BAR,Honda,1:21.877,,,6
+2007,hungary,818,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:22.143,,,6
+2007,hungary,818,qualifying,,20,19,Sebastian Vettel VET,STR Ferrari,1:22.177,,,7
+2007,hungary,818,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:22.737,,,9
+2007,hungary,818,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:23.774,,,7
+2007,turkey,819,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:27.488,1:27.039,1:27.329,18
+2007,turkey,819,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:27.513,1:26.936,1:27.373,17
+2007,turkey,819,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:27.294,1:26.902,1:27.546,18
+2007,turkey,819,qualifying,,4,1,Fernando Alonso ALO,McLaren Mercedes,1:27.328,1:26.841,1:27.574,17
+2007,turkey,819,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:27.997,1:27.253,1:27.722,17
+2007,turkey,819,qualifying,,6,9,Nick Heidfeld HEI,Sauber BMW,1:28.099,1:27.253,1:28.037,17
+2007,turkey,819,qualifying,,7,4,Heikki Kovalainen KOV,Renault,1:28.127,1:27.784,1:28.491,24
+2007,turkey,819,qualifying,,8,16,Nico Rosberg ROS,Williams Toyota,1:28.275,1:27.750,1:28.501,20
+2007,turkey,819,qualifying,,9,12,Jarno Trulli TRU,Toyota,1:28.318,1:27.801,1:28.740,24
+2007,turkey,819,qualifying,,10,3,Giancarlo Fisichella FIS,Renault,1:28.313,1:27.880,1:29.322,24
+2007,turkey,819,qualifying,,11,23,Anthony Davidson DAV,Super Aguri Honda,1:28.304,1:28.002,,12
+2007,turkey,819,qualifying,,12,15,Mark Webber WEB,Red Bull Renault,1:28.500,1:28.013,,12
+2007,turkey,819,qualifying,,13,14,David Coulthard COU,Red Bull Renault,1:28.395,1:28.100,,12
+2007,turkey,819,qualifying,,14,8,Rubens Barrichello BAR,Honda,1:28.792,1:28.188,,12
+2007,turkey,819,qualifying,,15,7,Jenson Button BUT,Honda,1:28.373,1:28.220,,12
+2007,turkey,819,qualifying,,16,17,Alexander Wurz WUR,Williams Toyota,1:28.360,1:28.390,,14
+2007,turkey,819,qualifying,,17,18,Vitantonio Liuzzi LIU,STR Ferrari,1:28.798,,,9
+2007,turkey,819,qualifying,,18,11,Ralf Schumacher RSC,Toyota,1:28.809,,,7
+2007,turkey,819,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:28.953,,,8
+2007,turkey,819,qualifying,,20,19,Sebastian Vettel VET,STR Ferrari,1:29.408,,,6
+2007,turkey,819,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:29.861,,,9
+2007,turkey,819,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:31.479,,,7
+2007,italy,820,qualifying,,1,1,Fernando Alonso ALO,McLaren Mercedes,1:21.718,1:21.356,1:21.997,17
+2007,italy,820,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:21.956,1:21.746,1:22.034,17
+2007,italy,820,qualifying,,3,5,Felipe Massa MAS,Ferrari,1:22.309,1:21.993,1:22.549,17
+2007,italy,820,qualifying,,4,9,Nick Heidfeld HEI,Sauber BMW,1:23.107,1:22.466,1:23.174,18
+2007,italy,820,qualifying,,5,6,Kimi Räikkönen RAI,Ferrari,1:22.673,1:22.369,1:23.183,21
+2007,italy,820,qualifying,,6,10,Robert Kubica KUB,Sauber BMW,1:23.088,1:22.400,1:23.446,18
+2007,italy,820,qualifying,,7,4,Heikki Kovalainen KOV,Renault,1:23.505,1:23.134,1:24.102,24
+2007,italy,820,qualifying,,8,16,Nico Rosberg ROS,Williams Toyota,1:23.333,1:22.748,1:24.382,24
+2007,italy,820,qualifying,,9,12,Jarno Trulli TRU,Toyota,1:23.724,1:23.107,1:24.555,24
+2007,italy,820,qualifying,,10,7,Jenson Button BUT,Honda,1:23.639,1:23.021,1:25.165,23
+2007,italy,820,qualifying,,11,15,Mark Webber WEB,Red Bull Renault,1:23.575,1:23.166,,13
+2007,italy,820,qualifying,,12,8,Rubens Barrichello BAR,Honda,1:23.474,1:23.176,,13
+2007,italy,820,qualifying,,13,17,Alexander Wurz WUR,Williams Toyota,1:23.739,1:23.209,,11
+2007,italy,820,qualifying,,14,23,Anthony Davidson DAV,Super Aguri Honda,1:23.646,1:23.274,,12
+2007,italy,820,qualifying,,15,3,Giancarlo Fisichella FIS,Renault,1:23.559,1:23.325,,13
+2007,italy,820,qualifying,,16,19,Sebastian Vettel VET,STR Ferrari,1:23.578,1:23.351,,15
+2007,italy,820,qualifying,,17,22,Takuma Sato SAT,Super Aguri Honda,1:23.749,,,5
+2007,italy,820,qualifying,,18,11,Ralf Schumacher RSC,Toyota,1:23.787,,,7
+2007,italy,820,qualifying,,19,18,Vitantonio Liuzzi LIU,STR Ferrari,1:23.886,,,6
+2007,italy,820,qualifying,,20,14,David Coulthard COU,Red Bull Renault,1:24.019,,,6
+2007,italy,820,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:24.699,,,10
+2007,italy,820,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:25.084,,,8
+2007,belgium,821,qualifying,,1,6,Kimi Räikkönen RAI,Ferrari,1:46.242,1:45.070,1:45.994,15
+2007,belgium,821,qualifying,,2,5,Felipe Massa MAS,Ferrari,1:46.060,1:45.173,1:46.011,15
+2007,belgium,821,qualifying,,3,1,Fernando Alonso ALO,McLaren Mercedes,1:46.058,1:45.442,1:46.091,15
+2007,belgium,821,qualifying,,4,2,Lewis Hamilton HAM,McLaren Mercedes,1:46.437,1:45.132,1:46.406,15
+2007,belgium,821,qualifying,,5,10,Robert Kubica KUB,Sauber BMW,1:46.707,1:45.885,1:46.996,22
+2007,belgium,821,qualifying,,6,16,Nico Rosberg ROS,Williams Toyota,1:46.950,1:46.469,1:47.334,21
+2007,belgium,821,qualifying,,7,9,Nick Heidfeld HEI,Sauber BMW,1:46.923,1:45.994,1:47.409,18
+2007,belgium,821,qualifying,,8,15,Mark Webber WEB,Red Bull Renault,1:47.084,1:46.426,1:47.524,20
+2007,belgium,821,qualifying,,9,12,Jarno Trulli TRU,Toyota,1:47.143,1:46.480,1:47.798,21
+2007,belgium,821,qualifying,,10,4,Heikki Kovalainen KOV,Renault,1:46.971,1:46.240,1:48.505,21
+2007,belgium,821,qualifying,,11,3,Giancarlo Fisichella FIS,Renault,1:47.143,1:46.603,,13
+2007,belgium,821,qualifying,,12,11,Ralf Schumacher RSC,Toyota,1:47.300,1:46.618,,11
+2007,belgium,821,qualifying,,13,14,David Coulthard COU,Red Bull Renault,1:47.340,1:46.800,,12
+2007,belgium,821,qualifying,,14,7,Jenson Button BUT,Honda,1:47.474,1:46.955,,12
+2007,belgium,821,qualifying,,15,18,Vitantonio Liuzzi LIU,STR Ferrari,1:47.576,1:47.115,,12
+2007,belgium,821,qualifying,,16,17,Alexander Wurz WUR,Williams Toyota,1:47.522,1:47.394,,12
+2007,belgium,821,qualifying,,17,19,Sebastian Vettel VET,STR Ferrari,1:47.581,,,6
+2007,belgium,821,qualifying,,18,8,Rubens Barrichello BAR,Honda,1:47.954,,,6
+2007,belgium,821,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:47.980,,,6
+2007,belgium,821,qualifying,,20,20,Adrian Sutil SUT,Spyker Ferrari,1:48.044,,,8
+2007,belgium,821,qualifying,,21,23,Anthony Davidson DAV,Super Aguri Honda,1:48.199,,,6
+2007,belgium,821,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:49.577,,,5
+2007,japan,822,qualifying,,1,2,Lewis Hamilton HAM,McLaren Mercedes,1:25.489,1:24.753,1:25.368,30
+2007,japan,822,qualifying,,2,1,Fernando Alonso ALO,McLaren Mercedes,1:25.379,1:24.806,1:25.438,27
+2007,japan,822,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:25.390,1:24.988,1:25.516,29
+2007,japan,822,qualifying,,4,5,Felipe Massa MAS,Ferrari,1:25.359,1:25.049,1:25.765,29
+2007,japan,822,qualifying,,5,9,Nick Heidfeld HEI,Sauber BMW,1:25.971,1:25.248,1:26.505,30
+2007,japan,822,qualifying,,6,16,Nico Rosberg ROS,Williams Toyota,1:26.579,1:25.816,1:26.728,33
+2007,japan,822,qualifying,,7,7,Jenson Button BUT,Honda,1:26.614,1:25.454,1:26.913,31
+2007,japan,822,qualifying,,8,15,Mark Webber WEB,Red Bull Renault,1:25.970,1:25.535,1:26.914,29
+2007,japan,822,qualifying,,9,19,Sebastian Vettel VET,STR Ferrari,1:26.025,1:25.909,1:26.973,33
+2007,japan,822,qualifying,,10,10,Robert Kubica KUB,Sauber BMW,1:26.300,1:25.530,1:27.225,33
+2007,japan,822,qualifying,,11,3,Giancarlo Fisichella FIS,Renault,1:26.909,1:26.033,,17
+2007,japan,822,qualifying,,12,4,Heikki Kovalainen KOV,Renault,1:27.223,1:26.232,,17
+2007,japan,822,qualifying,,13,14,David Coulthard COU,Red Bull Renault,1:26.904,1:26.247,,21
+2007,japan,822,qualifying,,14,12,Jarno Trulli TRU,Toyota,1:26.711,1:26.253,,21
+2007,japan,822,qualifying,,15,18,Vitantonio Liuzzi LIU,STR Ferrari,1:27.234,1:26.948,,22
+2007,japan,822,qualifying,,16,11,Ralf Schumacher RSC,Toyota,1:27.191,,,10
+2007,japan,822,qualifying,,17,8,Rubens Barrichello BAR,Honda,1:27.323,,,10
+2007,japan,822,qualifying,,18,17,Alexander Wurz WUR,Williams Toyota,1:27.454,,,10
+2007,japan,822,qualifying,,19,23,Anthony Davidson DAV,Super Aguri Honda,1:27.564,,,10
+2007,japan,822,qualifying,,20,20,Adrian Sutil SUT,Spyker Ferrari,1:28.628,,,10
+2007,japan,822,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:28.792,,,10
+2007,japan,822,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:29.668,,,10
+2007,china,823,qualifying,,1,2,Lewis Hamilton HAM,McLaren Mercedes,1:35.798,1:35.898,1:35.908,16
+2007,china,823,qualifying,,2,6,Kimi Räikkönen RAI,Ferrari,1:35.692,1:35.381,1:36.044,17
+2007,china,823,qualifying,,3,5,Felipe Massa MAS,Ferrari,1:35.792,1:35.796,1:36.221,16
+2007,china,823,qualifying,,4,1,Fernando Alonso ALO,McLaren Mercedes,1:35.809,1:35.845,1:36.576,16
+2007,china,823,qualifying,,5,14,David Coulthard COU,Red Bull Renault,1:36.930,1:36.252,1:37.619,22
+2007,china,823,qualifying,,6,11,Ralf Schumacher RSC,Toyota,1:37.135,1:36.709,1:38.013,23
+2007,china,823,qualifying,,7,15,Mark Webber WEB,Red Bull Renault,1:37.199,1:36.602,1:38.153,22
+2007,china,823,qualifying,,8,9,Nick Heidfeld HEI,Sauber BMW,1:36.737,1:36.217,1:38.455,21
+2007,china,823,qualifying,,9,10,Robert Kubica KUB,Sauber BMW,1:36.309,1:36.116,1:38.472,20
+2007,china,823,qualifying,,10,7,Jenson Button BUT,Honda,1:37.092,1:36.771,1:39.285,22
+2007,china,823,qualifying,,11,18,Vitantonio Liuzzi LIU,STR Ferrari,1:37.047,1:36.862,,12
+2007,china,823,qualifying,,12,19,Sebastian Vettel VET,STR Ferrari,1:37.006,1:36.891,,12
+2007,china,823,qualifying,,13,12,Jarno Trulli TRU,Toyota,1:37.209,1:36.959,,13
+2007,china,823,qualifying,,14,4,Heikki Kovalainen KOV,Renault,1:37.225,1:36.991,,12
+2007,china,823,qualifying,,15,23,Anthony Davidson DAV,Super Aguri Honda,1:37.203,1:37.247,,12
+2007,china,823,qualifying,,16,16,Nico Rosberg ROS,Williams Toyota,1:37.144,1:37.483,,13
+2007,china,823,qualifying,,17,8,Rubens Barrichello BAR,Honda,1:37.251,,,6
+2007,china,823,qualifying,,18,3,Giancarlo Fisichella FIS,Renault,1:37.290,,,7
+2007,china,823,qualifying,,19,17,Alexander Wurz WUR,Williams Toyota,1:37.456,,,6
+2007,china,823,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:38.218,,,6
+2007,china,823,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:38.668,,,8
+2007,china,823,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:39.336,,,7
+2007,brazil,824,qualifying,,1,5,Felipe Massa MAS,Ferrari,1:12.303,1:12.374,1:11.931,20
+2007,brazil,824,qualifying,,2,2,Lewis Hamilton HAM,McLaren Mercedes,1:13.033,1:12.296,1:12.082,19
+2007,brazil,824,qualifying,,3,6,Kimi Räikkönen RAI,Ferrari,1:13.016,1:12.161,1:12.322,20
+2007,brazil,824,qualifying,,4,1,Fernando Alonso ALO,McLaren Mercedes,1:12.895,1:12.637,1:12.356,22
+2007,brazil,824,qualifying,,5,15,Mark Webber WEB,Red Bull Renault,1:13.081,1:12.683,1:12.928,24
+2007,brazil,824,qualifying,,6,9,Nick Heidfeld HEI,Sauber BMW,1:13.472,1:12.888,1:13.081,24
+2007,brazil,824,qualifying,,7,10,Robert Kubica KUB,Sauber BMW,1:13.085,1:12.641,1:13.129,23
+2007,brazil,824,qualifying,,8,12,Jarno Trulli TRU,Toyota,1:13.470,1:12.832,1:13.195,25
+2007,brazil,824,qualifying,,9,14,David Coulthard COU,Red Bull Renault,1:13.264,1:12.846,1:13.272,24
+2007,brazil,824,qualifying,,10,16,Nico Rosberg ROS,Williams Toyota,1:13.707,1:12.752,1:13.477,24
+2007,brazil,824,qualifying,,11,8,Rubens Barrichello BAR,Honda,1:13.661,1:12.932,,12
+2007,brazil,824,qualifying,,12,3,Giancarlo Fisichella FIS,Renault,1:13.482,1:12.968,,12
+2007,brazil,824,qualifying,,13,19,Sebastian Vettel VET,STR Ferrari,1:13.853,1:13.058,,12
+2007,brazil,824,qualifying,,14,18,Vitantonio Liuzzi LIU,STR Ferrari,1:13.607,1:13.251,,12
+2007,brazil,824,qualifying,,15,11,Ralf Schumacher RSC,Toyota,1:13.767,1:13.315,,12
+2007,brazil,824,qualifying,,16,7,Jenson Button BUT,Honda,1:14.054,1:13.469,,12
+2007,brazil,824,qualifying,,17,4,Heikki Kovalainen KOV,Renault,1:14.078,,,7
+2007,brazil,824,qualifying,,18,22,Takuma Sato SAT,Super Aguri Honda,1:14.098,,,6
+2007,brazil,824,qualifying,,19,17,Kazuki Nakajima NAK,Williams Toyota,1:14.417,,,6
+2007,brazil,824,qualifying,,20,23,Anthony Davidson DAV,Super Aguri Honda,1:14.596,,,6
+2007,brazil,824,qualifying,,21,20,Adrian Sutil SUT,Spyker Ferrari,1:15.217,,,3
+2007,brazil,824,qualifying,,22,21,Sakon Yamamoto YAM,Spyker Ferrari,1:15.487,,,6
+2006,bahrain,790,qualifying,,1,5,Michael Schumacher MSC,Ferrari,1:33.310,1:32.025,1:31.431,20
+2006,bahrain,790,qualifying,,2,6,Felipe Massa MAS,Ferrari,1:33.579,1:32.014,1:31.478,20
+2006,bahrain,790,qualifying,,3,12,Jenson Button BUT,Honda,1:32.603,1:32.025,1:31.549,23
+2006,bahrain,790,qualifying,,4,1,Fernando Alonso ALO,Renault,1:32.433,1:31.215,1:31.702,20
+2006,bahrain,790,qualifying,,5,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:33.233,1:31.487,1:32.164,20
+2006,bahrain,790,qualifying,,6,11,Rubens Barrichello BAR,Honda,1:33.922,1:32.322,1:32.579,26
+2006,bahrain,790,qualifying,,7,9,Mark Webber WEB,Williams Cosworth,1:33.454,1:32.309,1:33.006,20
+2006,bahrain,790,qualifying,,8,15,Christian Klien KLI,RBR Ferrari,1:34.308,1:32.106,1:33.112,25
+2006,bahrain,790,qualifying,,9,2,Giancarlo Fisichella FIS,Renault,1:32.934,1:31.831,1:33.496,20
+2006,bahrain,790,qualifying,,10,16,Nick Heidfeld HEI,Sauber BMW,1:33.374,1:31.958,1:33.926,24
+2006,bahrain,790,qualifying,,11,17,Jacques Villeneuve VIL,Sauber BMW,1:33.882,1:32.456,,11
+2006,bahrain,790,qualifying,,12,10,Nico Rosberg ROS,Williams Cosworth,1:32.945,1:32.620,,10
+2006,bahrain,790,qualifying,,13,14,David Coulthard COU,RBR Ferrari,1:33.678,1:32.850,,12
+2006,bahrain,790,qualifying,,14,8,Jarno Trulli TRU,Toyota,1:33.987,1:33.066,,11
+2006,bahrain,790,qualifying,,15,20,Vitantonio Liuzzi LIU,STR Cosworth,1:34.439,1:33.416,,13
+2006,bahrain,790,qualifying,,16,21,Scott Speed SPE,STR Cosworth,1:33.995,1:34.606,,10
+2006,bahrain,790,qualifying,,17,7,Ralf Schumacher RSC,Toyota,1:34.702,,,7
+2006,bahrain,790,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:35.724,,,6
+2006,bahrain,790,qualifying,,19,18,Tiago Monteiro MON,MF1 Toyota,1:35.900,,,4
+2006,bahrain,790,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:37.411,,,6
+2006,bahrain,790,qualifying,,21,23,Yuji Ide IDE,Super Aguri Honda,1:40.270,,,6
+2006,bahrain,790,qualifying,,22,3,Kimi Räikkönen RAI,McLaren Mercedes,DNF,,,2
+2006,malaysia,791,qualifying,,1,2,Giancarlo Fisichella FIS,Renault,1:35.488,1:33.623,1:33.840,22
+2006,malaysia,791,qualifying,,2,12,Jenson Button BUT,Honda,1:35.023,1:33.527,1:33.986,19
+2006,malaysia,791,qualifying,,3,10,Nico Rosberg ROS,Williams Cosworth,1:35.105,1:34.563,1:34.626,19
+2006,malaysia,791,qualifying,,4,5,Michael Schumacher MSC,Ferrari,1:35.810,1:34.574,1:34.668,23
+2006,malaysia,791,qualifying,,5,9,Mark Webber WEB,Williams Cosworth,1:35.252,1:34.279,1:34.672,18
+2006,malaysia,791,qualifying,,6,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:34.536,1:34.568,1:34.916,18
+2006,malaysia,791,qualifying,,7,3,Kimi Räikkönen RAI,McLaren Mercedes,1:34.667,1:34.351,1:34.983,18
+2006,malaysia,791,qualifying,,8,1,Fernando Alonso ALO,Renault,1:35.514,1:33.997,1:35.747,22
+2006,malaysia,791,qualifying,,9,15,Christian Klien KLI,RBR Ferrari,1:35.171,1:34.537,1:38.715,16
+2006,malaysia,791,qualifying,,10,7,Ralf Schumacher RSC,Toyota,1:35.214,1:34.586,,10
+2006,malaysia,791,qualifying,,11,14,David Coulthard COU,RBR Ferrari,1:34.839,1:34.614,,12
+2006,malaysia,791,qualifying,,12,11,Rubens Barrichello BAR,Honda,1:35.526,1:34.683,,14
+2006,malaysia,791,qualifying,,13,8,Jarno Trulli TRU,Toyota,1:35.517,1:34.702,,12
+2006,malaysia,791,qualifying,,14,17,Jacques Villeneuve VIL,Sauber BMW,1:35.391,1:34.752,,10
+2006,malaysia,791,qualifying,,15,16,Nick Heidfeld HEI,Sauber BMW,1:35.588,1:34.783,,10
+2006,malaysia,791,qualifying,,16,6,Felipe Massa MAS,Ferrari,1:35.091,,,3
+2006,malaysia,791,qualifying,,17,21,Scott Speed SPE,STR Cosworth,1:36.297,,,6
+2006,malaysia,791,qualifying,,18,20,Vitantonio Liuzzi LIU,STR Cosworth,1:36.581,,,7
+2006,malaysia,791,qualifying,,19,19,Christijan Albers ALB,MF1 Toyota,1:37.426,,,7
+2006,malaysia,791,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:37.819,,,6
+2006,malaysia,791,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:39.011,,,6
+2006,malaysia,791,qualifying,,22,23,Yuji Ide IDE,Super Aguri Honda,1:40.720,,,6
+2006,australia,792,qualifying,,1,12,Jenson Button BUT,Honda,1:28.081,1:26.337,1:25.229,25
+2006,australia,792,qualifying,,2,2,Giancarlo Fisichella FIS,Renault,1:27.765,1:26.196,1:25.635,23
+2006,australia,792,qualifying,,3,1,Fernando Alonso ALO,Renault,1:28.569,1:25.729,1:25.778,24
+2006,australia,792,qualifying,,4,3,Kimi Räikkönen RAI,McLaren Mercedes,1:27.193,1:26.161,1:25.822,22
+2006,australia,792,qualifying,,5,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:27.079,1:25.902,1:25.976,22
+2006,australia,792,qualifying,,6,7,Ralf Schumacher RSC,Toyota,1:28.007,1:26.596,1:26.612,28
+2006,australia,792,qualifying,,7,9,Mark Webber WEB,Williams Cosworth,1:27.669,1:26.075,1:26.937,22
+2006,australia,792,qualifying,,8,16,Nick Heidfeld HEI,Sauber BMW,1:27.796,1:26.014,1:27.579,30
+2006,australia,792,qualifying,,9,17,Jacques Villeneuve VIL,Sauber BMW,1:28.460,1:26.714,1:29.239,19
+2006,australia,792,qualifying,,10,8,Jarno Trulli TRU,Toyota,1:27.748,1:26.327,,14
+2006,australia,792,qualifying,,11,5,Michael Schumacher MSC,Ferrari,1:28.228,1:26.718,,11
+2006,australia,792,qualifying,,12,14,David Coulthard COU,RBR Ferrari,1:28.408,1:27.023,,11
+2006,australia,792,qualifying,,13,20,Vitantonio Liuzzi LIU,STR Cosworth,1:28.999,1:27.219,,18
+2006,australia,792,qualifying,,14,15,Christian Klien KLI,RBR Ferrari,1:28.757,1:27.591,,14
+2006,australia,792,qualifying,,15,10,Nico Rosberg ROS,Williams Cosworth,1:28.351,1:29.422,,11
+2006,australia,792,qualifying,,16,6,Felipe Massa MAS,Ferrari,1:28.868,DNF,,8
+2006,australia,792,qualifying,,17,11,Rubens Barrichello BAR,Honda,1:29.943,,,6
+2006,australia,792,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:30.226,,,8
+2006,australia,792,qualifying,,19,21,Scott Speed SPE,STR Cosworth,1:30.426,,,9
+2006,australia,792,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:30.709,,,7
+2006,australia,792,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:32.279,,,7
+2006,australia,792,qualifying,,22,23,Yuji Ide IDE,Super Aguri Honda,1:36.164,,,7
+2006,san-marino,793,qualifying,,1,5,Michael Schumacher MSC,Ferrari,1:24.598,1:22.579,1:22.795,22
+2006,san-marino,793,qualifying,,2,12,Jenson Button BUT,Honda,1:24.480,1:23.749,1:22.988,20
+2006,san-marino,793,qualifying,,3,11,Rubens Barrichello BAR,Honda,1:24.727,1:23.760,1:23.242,20
+2006,san-marino,793,qualifying,,4,6,Felipe Massa MAS,Ferrari,1:24.884,1:23.595,1:23.702,22
+2006,san-marino,793,qualifying,,5,1,Fernando Alonso ALO,Renault,1:23.536,1:23.743,1:23.709,21
+2006,san-marino,793,qualifying,,6,7,Ralf Schumacher RSC,Toyota,1:24.370,1:23.565,1:23.772,26
+2006,san-marino,793,qualifying,,7,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:24.960,1:23.760,1:24.021,24
+2006,san-marino,793,qualifying,,8,3,Kimi Räikkönen RAI,McLaren Mercedes,1:24.259,1:23.190,1:24.158,21
+2006,san-marino,793,qualifying,,9,8,Jarno Trulli TRU,Toyota,1:24.446,1:23.727,1:24.172,27
+2006,san-marino,793,qualifying,,10,9,Mark Webber WEB,Williams Cosworth,1:24.992,1:23.718,1:24.795,21
+2006,san-marino,793,qualifying,,11,2,Giancarlo Fisichella FIS,Renault,1:24.434,1:23.771,,6
+2006,san-marino,793,qualifying,,12,17,Jacques Villeneuve VIL,Sauber BMW,1:25.081,1:23.887,,9
+2006,san-marino,793,qualifying,,13,10,Nico Rosberg ROS,Williams Cosworth,1:24.495,1:23.966,,9
+2006,san-marino,793,qualifying,,14,14,David Coulthard COU,RBR Ferrari,1:24.849,1:24.101,,12
+2006,san-marino,793,qualifying,,15,16,Nick Heidfeld HEI,Sauber BMW,1:25.410,1:24.129,,10
+2006,san-marino,793,qualifying,,16,20,Vitantonio Liuzzi LIU,STR Cosworth,1:24.879,1:24.520,,16
+2006,san-marino,793,qualifying,,17,15,Christian Klien KLI,RBR Ferrari,1:25.410,,,6
+2006,san-marino,793,qualifying,,18,21,Scott Speed SPE,STR Cosworth,1:25.437,,,8
+2006,san-marino,793,qualifying,,19,18,Tiago Monteiro MON,MF1 Toyota,1:26.820,,,6
+2006,san-marino,793,qualifying,,20,19,Christijan Albers ALB,MF1 Toyota,1:27.088,,,6
+2006,san-marino,793,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:27.609,,,6
+2006,san-marino,793,qualifying,,22,23,Yuji Ide IDE,Super Aguri Honda,1:29.282,,,8
+2006,europe,794,qualifying,,1,1,Fernando Alonso ALO,Renault,1:31.138,1:30.336,1:29.819,20
+2006,europe,794,qualifying,,2,5,Michael Schumacher MSC,Ferrari,1:31.235,1:30.013,1:30.028,19
+2006,europe,794,qualifying,,3,6,Felipe Massa MAS,Ferrari,1:31.921,1:30.732,1:30.407,21
+2006,europe,794,qualifying,,4,11,Rubens Barrichello BAR,Honda,1:31.671,1:30.469,1:30.754,20
+2006,europe,794,qualifying,,5,3,Kimi Räikkönen RAI,McLaren Mercedes,1:31.263,1:30.203,1:30.933,20
+2006,europe,794,qualifying,,6,12,Jenson Button BUT,Honda,1:31.420,1:30.755,1:30.940,23
+2006,europe,794,qualifying,,7,8,Jarno Trulli TRU,Toyota,1:31.809,1:30.733,1:31.419,26
+2006,europe,794,qualifying,,8,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:31.774,1:30.671,1:31.880,22
+2006,europe,794,qualifying,,9,9,Mark Webber WEB,Williams Cosworth,1:31.712,1:30.892,1:33.405,20
+2006,europe,794,qualifying,,10,17,Jacques Villeneuve VIL,Sauber BMW,1:31.545,1:30.865,1:36.998,22
+2006,europe,794,qualifying,,11,7,Ralf Schumacher RSC,Toyota,1:31.470,1:30.944,,13
+2006,europe,794,qualifying,,12,10,Nico Rosberg ROS,Williams Cosworth,1:32.053,1:31.194,,7
+2006,europe,794,qualifying,,13,2,Giancarlo Fisichella FIS,Renault,1:31.574,1:31.197,,9
+2006,europe,794,qualifying,,14,14,David Coulthard COU,RBR Ferrari,1:31.742,1:31.227,,13
+2006,europe,794,qualifying,,15,16,Nick Heidfeld HEI,Sauber BMW,1:31.457,1:31.422,,9
+2006,europe,794,qualifying,,16,20,Vitantonio Liuzzi LIU,STR Cosworth,1:32.621,1:31.728,,12
+2006,europe,794,qualifying,,17,15,Christian Klien KLI,RBR Ferrari,1:32.901,,,7
+2006,europe,794,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:32.936,,,5
+2006,europe,794,qualifying,,19,21,Scott Speed SPE,STR Cosworth,1:32.992,,,7
+2006,europe,794,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:33.658,,,6
+2006,europe,794,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:35.239,,,4
+2006,europe,794,qualifying,,22,23,Franck Montagny MON,Super Aguri Honda,1:46.505,,,4
+2006,spain,795,qualifying,,1,1,Fernando Alonso ALO,Renault,1:15.816,1:15.124,1:14.648,22
+2006,spain,795,qualifying,,2,2,Giancarlo Fisichella FIS,Renault,1:16.046,1:14.766,1:14.709,25
+2006,spain,795,qualifying,,3,5,Michael Schumacher MSC,Ferrari,1:16.049,1:14.637,1:14.970,24
+2006,spain,795,qualifying,,4,6,Felipe Massa MAS,Ferrari,1:16.359,1:15.245,1:15.442,22
+2006,spain,795,qualifying,,5,11,Rubens Barrichello BAR,Honda,1:16.266,1:15.258,1:15.885,23
+2006,spain,795,qualifying,,6,7,Ralf Schumacher RSC,Toyota,1:16.234,1:15.164,1:15.885,28
+2006,spain,795,qualifying,,7,8,Jarno Trulli TRU,Toyota,1:16.174,1:15.068,1:15.976,28
+2006,spain,795,qualifying,,8,12,Jenson Button BUT,Honda,1:16.054,1:15.150,1:16.008,24
+2006,spain,795,qualifying,,9,3,Kimi Räikkönen RAI,McLaren Mercedes,1:16.613,1:15.422,1:16.015,22
+2006,spain,795,qualifying,,10,16,Nick Heidfeld HEI,Sauber BMW,1:16.322,1:15.468,1:17.144,25
+2006,spain,795,qualifying,,11,9,Mark Webber WEB,Williams Cosworth,1:16.685,1:15.502,,9
+2006,spain,795,qualifying,,12,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:16.195,1:15.801,,11
+2006,spain,795,qualifying,,13,10,Nico Rosberg ROS,Williams Cosworth,1:17.213,1:15.804,,9
+2006,spain,795,qualifying,,14,17,Jacques Villeneuve VIL,Sauber BMW,1:16.066,1:15.847,,9
+2006,spain,795,qualifying,,15,15,Christian Klien KLI,RBR Ferrari,1:16.627,1:15.928,,12
+2006,spain,795,qualifying,,16,20,Vitantonio Liuzzi LIU,STR Cosworth,1:17.105,1:16.661,,14
+2006,spain,795,qualifying,,17,21,Scott Speed SPE,STR Cosworth,1:17.361,,,8
+2006,spain,795,qualifying,,18,18,Tiago Monteiro MON,MF1 Toyota,1:17.702,,,6
+2006,spain,795,qualifying,,19,19,Christijan Albers ALB,MF1 Toyota,1:18.024,,,7
+2006,spain,795,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:18.920,,,6
+2006,spain,795,qualifying,,21,23,Franck Montagny MON,Super Aguri Honda,1:20.763,,,6
+2006,spain,795,qualifying,,22,14,David Coulthard COU,RBR Ferrari,DNS,,,2
+2006,monaco,796,qualifying,,1,1,Fernando Alonso ALO,Renault,1:14.232,1:13.622,1:13.962,25
+2006,monaco,796,qualifying,,2,9,Mark Webber WEB,Williams Cosworth,1:14.305,1:13.728,1:14.082,31
+2006,monaco,796,qualifying,,3,3,Kimi Räikkönen RAI,McLaren Mercedes,1:13.887,1:13.532,1:14.140,26
+2006,monaco,796,qualifying,,4,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:14.483,1:14.295,1:14.664,32
+2006,monaco,796,qualifying,,5,11,Rubens Barrichello BAR,Honda,1:14.766,1:14.312,1:15.804,31
+2006,monaco,796,qualifying,,6,8,Jarno Trulli TRU,Toyota,1:14.883,1:14.211,1:15.857,24
+2006,monaco,796,qualifying,,7,14,David Coulthard COU,RBR Ferrari,1:15.090,1:13.687,1:16.426,30
+2006,monaco,796,qualifying,,8,10,Nico Rosberg ROS,Williams Cosworth,1:14.888,1:13.909,1:16.636,33
+2006,monaco,796,qualifying,,9,2,Giancarlo Fisichella FIS,Renault,1:14.614,1:13.647,1:17.260,26
+2006,monaco,796,qualifying,,10,7,Ralf Schumacher RSC,Toyota,1:14.412,1:14.398,,14
+2006,monaco,796,qualifying,,11,15,Christian Klien KLI,RBR Ferrari,1:14.489,1:14.747,,12
+2006,monaco,796,qualifying,,12,20,Vitantonio Liuzzi LIU,STR Cosworth,1:15.314,1:14.969,,20
+2006,monaco,796,qualifying,,13,12,Jenson Button BUT,Honda,1:15.085,1:14.982,,17
+2006,monaco,796,qualifying,,14,17,Jacques Villeneuve VIL,Sauber BMW,1:15.316,1:15.052,,16
+2006,monaco,796,qualifying,,15,16,Nick Heidfeld HEI,Sauber BMW,1:15.324,1:15.137,,20
+2006,monaco,796,qualifying,,16,19,Christijan Albers ALB,MF1 Toyota,1:15.598,,,8
+2006,monaco,796,qualifying,,17,18,Tiago Monteiro MON,MF1 Toyota,1:15.993,,,8
+2006,monaco,796,qualifying,,18,21,Scott Speed SPE,STR Cosworth,1:16.236,,,7
+2006,monaco,796,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:17.276,,,6
+2006,monaco,796,qualifying,,20,23,Franck Montagny MON,Super Aguri Honda,1:17.502,,,7
+2006,monaco,796,qualifying,,21,6,Felipe Massa MAS,Ferrari,DNF,,,2
+2006,great-britain,797,qualifying,,1,1,Fernando Alonso ALO,Renault,1:21.018,1:20.271,1:20.253,24
+2006,great-britain,797,qualifying,,2,3,Kimi Räikkönen RAI,McLaren Mercedes,1:21.648,1:20.497,1:20.397,24
+2006,great-britain,797,qualifying,,3,5,Michael Schumacher MSC,Ferrari,1:22.096,1:20.659,1:20.574,22
+2006,great-britain,797,qualifying,,4,6,Felipe Massa MAS,Ferrari,1:21.647,1:20.846,1:20.764,21
+2006,great-britain,797,qualifying,,5,2,Giancarlo Fisichella FIS,Renault,1:22.411,1:20.594,1:20.919,21
+2006,great-britain,797,qualifying,,6,11,Rubens Barrichello BAR,Honda,1:22.965,1:20.929,1:20.943,24
+2006,great-britain,797,qualifying,,7,7,Ralf Schumacher RSC,Toyota,1:22.886,1:21.043,1:21.073,28
+2006,great-britain,797,qualifying,,8,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:22.169,1:20.816,1:21.107,23
+2006,great-britain,797,qualifying,,9,16,Nick Heidfeld HEI,Sauber BMW,1:21.670,1:20.629,1:21.329,28
+2006,great-britain,797,qualifying,,10,17,Jacques Villeneuve VIL,Sauber BMW,1:21.637,1:20.672,1:21.599,21
+2006,great-britain,797,qualifying,,11,14,David Coulthard COU,RBR Ferrari,1:22.424,1:21.442,,12
+2006,great-britain,797,qualifying,,12,10,Nico Rosberg ROS,Williams Cosworth,1:23.083,1:21.567,,9
+2006,great-britain,797,qualifying,,13,20,Vitantonio Liuzzi LIU,STR Cosworth,1:22.685,1:21.699,,13
+2006,great-britain,797,qualifying,,14,15,Christian Klien KLI,RBR Ferrari,1:22.773,1:21.990,,12
+2006,great-britain,797,qualifying,,15,21,Scott Speed SPE,STR Cosworth,1:22.541,1:22.076,,11
+2006,great-britain,797,qualifying,,16,18,Tiago Monteiro MON,MF1 Toyota,1:22.860,1:22.207,,10
+2006,great-britain,797,qualifying,,17,9,Mark Webber WEB,Williams Cosworth,1:23.129,,,3
+2006,great-britain,797,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:23.210,,,7
+2006,great-britain,797,qualifying,,19,12,Jenson Button BUT,Honda,1:23.247,,,3
+2006,great-britain,797,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:26.158,,,6
+2006,great-britain,797,qualifying,,21,23,Franck Montagny MON,Super Aguri Honda,1:26.316,,,6
+2006,great-britain,797,qualifying,,22,8,Jarno Trulli TRU,Toyota,DNF,,,2
+2006,canada,798,qualifying,,1,1,Fernando Alonso ALO,Renault,1:15.350,1:14.726,1:14.942,23
+2006,canada,798,qualifying,,2,2,Giancarlo Fisichella FIS,Renault,1:15.917,1:15.295,1:15.178,22
+2006,canada,798,qualifying,,3,3,Kimi Räikkönen RAI,McLaren Mercedes,1:15.376,1:15.273,1:15.386,30
+2006,canada,798,qualifying,,4,8,Jarno Trulli TRU,Toyota,1:16.455,1:15.506,1:15.968,29
+2006,canada,798,qualifying,,5,5,Michael Schumacher MSC,Ferrari,1:15.716,1:15.139,1:15.986,24
+2006,canada,798,qualifying,,6,10,Nico Rosberg ROS,Williams Cosworth,1:16.404,1:15.269,1:16.012,28
+2006,canada,798,qualifying,,7,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:16.251,1:15.253,1:16.228,26
+2006,canada,798,qualifying,,8,12,Jenson Button BUT,Honda,1:16.594,1:15.814,1:16.608,30
+2006,canada,798,qualifying,,9,11,Rubens Barrichello BAR,Honda,1:16.735,1:15.601,1:16.912,31
+2006,canada,798,qualifying,,10,6,Felipe Massa MAS,Ferrari,1:16.259,1:15.555,1:17.209,24
+2006,canada,798,qualifying,,11,17,Jacques Villeneuve VIL,Sauber BMW,1:16.493,1:15.832,,10
+2006,canada,798,qualifying,,12,15,Christian Klien KLI,RBR Ferrari,1:16.585,1:15.833,,12
+2006,canada,798,qualifying,,13,16,Nick Heidfeld HEI,Sauber BMW,1:15.906,1:15.885,,11
+2006,canada,798,qualifying,,14,7,Ralf Schumacher RSC,Toyota,1:16.702,1:15.888,,12
+2006,canada,798,qualifying,,15,20,Vitantonio Liuzzi LIU,STR Cosworth,1:16.581,1:16.116,,16
+2006,canada,798,qualifying,,16,14,David Coulthard COU,RBR Ferrari,1:16.514,1:16.301,,11
+2006,canada,798,qualifying,,17,9,Mark Webber WEB,Williams Cosworth,1:16.985,,,7
+2006,canada,798,qualifying,,18,21,Scott Speed SPE,STR Cosworth,1:17.016,,,7
+2006,canada,798,qualifying,,19,18,Tiago Monteiro MON,MF1 Toyota,1:17.121,,,8
+2006,canada,798,qualifying,,20,19,Christijan Albers ALB,MF1 Toyota,1:17.140,,,7
+2006,canada,798,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:19.088,,,6
+2006,canada,798,qualifying,,22,23,Franck Montagny MON,Super Aguri Honda,1:19.152,,,7
+2006,united-states,799,qualifying,,1,5,Michael Schumacher MSC,Ferrari,1:11.588,1:10.636,1:10.832,23
+2006,united-states,799,qualifying,,2,6,Felipe Massa MAS,Ferrari,1:11.088,1:11.146,1:11.435,23
+2006,united-states,799,qualifying,,3,2,Giancarlo Fisichella FIS,Renault,1:12.287,1:11.200,1:11.920,27
+2006,united-states,799,qualifying,,4,11,Rubens Barrichello BAR,Honda,1:12.156,1:11.263,1:12.109,29
+2006,united-states,799,qualifying,,5,1,Fernando Alonso ALO,Renault,1:12.416,1:11.877,1:12.449,26
+2006,united-states,799,qualifying,,6,17,Jacques Villeneuve VIL,Sauber BMW,1:12.114,1:11.724,1:12.479,26
+2006,united-states,799,qualifying,,7,12,Jenson Button BUT,Honda,1:12.238,1:11.865,1:12.523,29
+2006,united-states,799,qualifying,,8,7,Ralf Schumacher RSC,Toyota,1:11.879,1:11.673,1:12.795,29
+2006,united-states,799,qualifying,,9,3,Kimi Räikkönen RAI,McLaren Mercedes,1:12.777,1:12.135,1:13.174,31
+2006,united-states,799,qualifying,,10,16,Nick Heidfeld HEI,Sauber BMW,1:11.891,1:11.718,1:15.280,16
+2006,united-states,799,qualifying,,11,4,Juan Pablo Montoya MOY,McLaren Mercedes,1:12.477,1:12.150,,12
+2006,united-states,799,qualifying,,12,9,Mark Webber WEB,Williams Cosworth,1:12.935,1:12.292,,13
+2006,united-states,799,qualifying,,13,21,Scott Speed SPE,STR Cosworth,1:13.167,1:12.792,,14
+2006,united-states,799,qualifying,,14,19,Christijan Albers ALB,MF1 Toyota,1:12.711,1:12.854,,9
+2006,united-states,799,qualifying,,15,18,Tiago Monteiro MON,MF1 Toyota,1:12.627,1:12.864,,9
+2006,united-states,799,qualifying,,16,15,Christian Klien KLI,RBR Ferrari,1:12.773,1:12.925,,12
+2006,united-states,799,qualifying,,17,14,David Coulthard COU,RBR Ferrari,1:13.180,,,6
+2006,united-states,799,qualifying,,18,22,Takuma Sato SAT,Super Aguri Honda,1:13.496,,,6
+2006,united-states,799,qualifying,,19,10,Nico Rosberg ROS,Williams Cosworth,1:13.506,,,7
+2006,united-states,799,qualifying,,20,8,Jarno Trulli TRU,Toyota,1:13.787,,,3
+2006,united-states,799,qualifying,,21,20,Vitantonio Liuzzi LIU,STR Cosworth,1:14.041,,,10
+2006,united-states,799,qualifying,,22,23,Franck Montagny MON,Super Aguri Honda,1:16.036,,,4
+2006,france,800,qualifying,,1,5,Michael Schumacher MSC,Ferrari,1:15.865,1:15.111,1:15.493,19
+2006,france,800,qualifying,,2,6,Felipe Massa MAS,Ferrari,1:16.277,1:15.679,1:15.510,18
+2006,france,800,qualifying,,3,1,Fernando Alonso ALO,Renault,1:16.328,1:15.706,1:15.785,18
+2006,france,800,qualifying,,4,8,Jarno Trulli TRU,Toyota,1:15.550,1:15.776,1:16.036,21
+2006,france,800,qualifying,,5,7,Ralf Schumacher RSC,Toyota,1:15.949,1:15.625,1:16.091,21
+2006,france,800,qualifying,,6,3,Kimi Räikkönen RAI,McLaren Mercedes,1:16.154,1:15.742,1:16.281,20
+2006,france,800,qualifying,,7,2,Giancarlo Fisichella FIS,Renault,1:16.825,1:15.901,1:16.345,18
+2006,france,800,qualifying,,8,4,Pedro de la Rosa DLR,McLaren Mercedes,1:16.679,1:15.902,1:16.632,23
+2006,france,800,qualifying,,9,10,Nico Rosberg ROS,Williams Cosworth,1:16.534,1:15.926,1:18.272,24
+2006,france,800,qualifying,,10,14,David Coulthard COU,RBR Ferrari,1:16.350,1:15.974,1:18.663,24
+2006,france,800,qualifying,,11,9,Mark Webber WEB,Williams Cosworth,1:16.531,1:16.129,,12
+2006,france,800,qualifying,,12,16,Nick Heidfeld HEI,Sauber BMW,1:16.686,1:16.294,,13
+2006,france,800,qualifying,,13,15,Christian Klien KLI,RBR Ferrari,1:16.921,1:16.433,,12
+2006,france,800,qualifying,,14,11,Rubens Barrichello BAR,Honda,1:17.022,1:17.027,,12
+2006,france,800,qualifying,,15,21,Scott Speed SPE,STR Cosworth,1:17.117,1:17.063,,17
+2006,france,800,qualifying,,16,19,Christijan Albers ALB,MF1 Toyota,1:16.962,1:17.105,,11
+2006,france,800,qualifying,,17,20,Vitantonio Liuzzi LIU,STR Cosworth,1:17.164,,,8
+2006,france,800,qualifying,,18,17,Jacques Villeneuve VIL,Sauber BMW,1:17.304,,,3
+2006,france,800,qualifying,,19,12,Jenson Button BUT,Honda,1:17.495,,,7
+2006,france,800,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:17.589,,,7
+2006,france,800,qualifying,,21,23,Franck Montagny MON,Super Aguri Honda,1:18.637,,,6
+2006,france,800,qualifying,,22,22,Takuma Sato SAT,Super Aguri Honda,1:18.845,,,6
+2006,germany,801,qualifying,,1,3,Kimi Räikkönen RAI,McLaren Mercedes,1:15.214,1:14.410,1:14.070,19
+2006,germany,801,qualifying,,2,5,Michael Schumacher MSC,Ferrari,1:14.904,1:13.778,1:14.205,18
+2006,germany,801,qualifying,,3,6,Felipe Massa MAS,Ferrari,1:14.412,1:14.094,1:14.569,18
+2006,germany,801,qualifying,,4,12,Jenson Button BUT,Honda,1:15.869,1:14.378,1:14.862,23
+2006,germany,801,qualifying,,5,2,Giancarlo Fisichella FIS,Renault,1:15.916,1:14.540,1:14.894,21
+2006,germany,801,qualifying,,6,11,Rubens Barrichello BAR,Honda,1:15.757,1:14.652,1:14.934,24
+2006,germany,801,qualifying,,7,1,Fernando Alonso ALO,Renault,1:15.518,1:14.746,1:15.282,21
+2006,germany,801,qualifying,,8,7,Ralf Schumacher RSC,Toyota,1:15.789,1:14.743,1:15.923,21
+2006,germany,801,qualifying,,9,4,Pedro de la Rosa DLR,McLaren Mercedes,1:15.655,1:15.021,1:15.936,20
+2006,germany,801,qualifying,,10,14,David Coulthard COU,RBR Ferrari,1:15.836,1:14.826,1:16.326,25
+2006,germany,801,qualifying,,11,9,Mark Webber WEB,Williams Cosworth,1:15.719,1:15.094,,14
+2006,germany,801,qualifying,,12,15,Christian Klien KLI,RBR Ferrari,1:15.816,1:15.141,,14
+2006,germany,801,qualifying,,13,8,Jarno Trulli TRU,Toyota,1:15.430,1:15.150,,12
+2006,germany,801,qualifying,,14,17,Jacques Villeneuve VIL,Sauber BMW,1:16.281,1:15.329,,13
+2006,germany,801,qualifying,,15,10,Nico Rosberg ROS,Williams Cosworth,1:16.183,1:15.380,,14
+2006,germany,801,qualifying,,16,16,Nick Heidfeld HEI,Sauber BMW,1:16.234,1:15.397,,13
+2006,germany,801,qualifying,,17,20,Vitantonio Liuzzi LIU,STR Cosworth,1:16.399,,,9
+2006,germany,801,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:17.093,,,5
+2006,germany,801,qualifying,,19,22,Takuma Sato SAT,Super Aguri Honda,1:17.185,,,5
+2006,germany,801,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:17.836,,,6
+2006,germany,801,qualifying,,21,23,Sakon Yamamoto YAM,Super Aguri Honda,1:20.444,,,5
+2006,germany,801,qualifying,,22,21,Scott Speed SPE,STR Cosworth,DNF,,,2
+2006,hungary,802,qualifying,,1,3,Kimi Räikkönen RAI,McLaren Mercedes,1:20.080,1:19.704,1:19.599,17
+2006,hungary,802,qualifying,,2,6,Felipe Massa MAS,Ferrari,1:19.742,1:19.504,1:19.886,17
+2006,hungary,802,qualifying,,3,11,Rubens Barrichello BAR,Honda,1:21.141,1:19.783,1:20.085,22
+2006,hungary,802,qualifying,,4,12,Jenson Button BUT,Honda,1:20.820,1:19.943,1:20.092,22
+2006,hungary,802,qualifying,,5,4,Pedro de la Rosa DLR,McLaren Mercedes,1:21.288,1:19.991,1:20.117,19
+2006,hungary,802,qualifying,,6,9,Mark Webber WEB,Williams Cosworth,1:21.335,1:20.047,1:20.266,23
+2006,hungary,802,qualifying,,7,7,Ralf Schumacher RSC,Toyota,1:21.112,1:20.243,1:20.759,23
+2006,hungary,802,qualifying,,8,2,Giancarlo Fisichella FIS,Renault,1:21.370,1:20.154,1:20.924,22
+2006,hungary,802,qualifying,,9,8,Jarno Trulli TRU,Toyota,1:21.434,1:20.231,1:21.132,23
+2006,hungary,802,qualifying,,10,17,Robert Kubica KUB,Sauber BMW,1:20.891,1:20.256,1:22.049,21
+2006,hungary,802,qualifying,,11,16,Nick Heidfeld HEI,Sauber BMW,1:21.437,1:20.623,,10
+2006,hungary,802,qualifying,,12,5,Michael Schumacher MSC,Ferrari,1:21.440,1:20.875,,9
+2006,hungary,802,qualifying,,13,14,David Coulthard COU,RBR Ferrari,1:21.163,1:20.890,,11
+2006,hungary,802,qualifying,,14,15,Christian Klien KLI,RBR Ferrari,1:22.027,1:21.207,,10
+2006,hungary,802,qualifying,,15,1,Fernando Alonso ALO,Renault,1:21.792,1:21.364,,12
+2006,hungary,802,qualifying,,16,18,Tiago Monteiro MON,MF1 Toyota,1:22.009,1:23.767,,9
+2006,hungary,802,qualifying,,17,20,Vitantonio Liuzzi LIU,STR Cosworth,1:22.068,,,7
+2006,hungary,802,qualifying,,18,10,Nico Rosberg ROS,Williams Cosworth,1:22.084,,,6
+2006,hungary,802,qualifying,,19,21,Scott Speed SPE,STR Cosworth,1:22.317,,,8
+2006,hungary,802,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:22.967,,,6
+2006,hungary,802,qualifying,,21,19,Christijan Albers ALB,MF1 Toyota,1:23.146,,,6
+2006,hungary,802,qualifying,,22,23,Sakon Yamamoto YAM,Super Aguri Honda,1:24.016,,,6
+2006,turkey,803,qualifying,,1,6,Felipe Massa MAS,Ferrari,1:27.306,1:27.059,1:26.907,17
+2006,turkey,803,qualifying,,2,5,Michael Schumacher MSC,Ferrari,1:27.385,1:25.850,1:27.284,17
+2006,turkey,803,qualifying,,3,1,Fernando Alonso ALO,Renault,1:27.861,1:26.917,1:27.321,20
+2006,turkey,803,qualifying,,4,2,Giancarlo Fisichella FIS,Renault,1:28.175,1:27.346,1:27.564,19
+2006,turkey,803,qualifying,,5,7,Ralf Schumacher RSC,Toyota,1:27.668,1:27.062,1:27.569,20
+2006,turkey,803,qualifying,,6,16,Nick Heidfeld HEI,Sauber BMW,1:28.200,1:27.251,1:27.785,20
+2006,turkey,803,qualifying,,7,12,Jenson Button BUT,Honda,1:28.222,1:26.872,1:27.790,23
+2006,turkey,803,qualifying,,8,3,Kimi Räikkönen RAI,McLaren Mercedes,1:28.236,1:27.202,1:27.866,19
+2006,turkey,803,qualifying,,9,17,Robert Kubica KUB,Sauber BMW,1:28.212,1:27.405,1:28.167,20
+2006,turkey,803,qualifying,,10,9,Mark Webber WEB,Williams Cosworth,1:28.307,1:27.608,1:29.436,22
+2006,turkey,803,qualifying,,11,15,Christian Klien KLI,RBR Ferrari,1:28.271,1:27.852,,12
+2006,turkey,803,qualifying,,12,4,Pedro de la Rosa DLR,McLaren Mercedes,1:28.403,1:27.897,,11
+2006,turkey,803,qualifying,,13,8,Jarno Trulli TRU,Toyota,1:28.549,1:27.973,,12
+2006,turkey,803,qualifying,,14,11,Rubens Barrichello BAR,Honda,1:28.411,1:28.257,,12
+2006,turkey,803,qualifying,,15,10,Nico Rosberg ROS,Williams Cosworth,1:28.889,1:28.386,,12
+2006,turkey,803,qualifying,,16,19,Christijan Albers ALB,MF1 Toyota,1:29.021,1:28.639,,12
+2006,turkey,803,qualifying,,17,14,David Coulthard COU,RBR Ferrari,1:29.136,,,7
+2006,turkey,803,qualifying,,18,21,Scott Speed SPE,STR Cosworth,1:29.158,,,9
+2006,turkey,803,qualifying,,19,20,Vitantonio Liuzzi LIU,STR Cosworth,1:29.250,,,8
+2006,turkey,803,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:29.901,,,8
+2006,turkey,803,qualifying,,21,23,Sakon Yamamoto YAM,Super Aguri Honda,1:30.607,,,7
+2006,turkey,803,qualifying,,22,22,Takuma Sato SAT,Super Aguri Honda,1:30.850,,,5
+2006,italy,804,qualifying,,1,3,Kimi Räikkönen RAI,McLaren Mercedes,1:21.994,1:21.349,1:21.484,18
+2006,italy,804,qualifying,,2,5,Michael Schumacher MSC,Ferrari,1:21.711,1:21.353,1:21.486,17
+2006,italy,804,qualifying,,3,16,Nick Heidfeld HEI,Sauber BMW,1:21.764,1:21.425,1:21.653,20
+2006,italy,804,qualifying,,4,6,Felipe Massa MAS,Ferrari,1:22.028,1:21.225,1:21.704,17
+2006,italy,804,qualifying,,5,12,Jenson Button BUT,Honda,1:22.512,1:21.572,1:22.011,21
+2006,italy,804,qualifying,,6,17,Robert Kubica KUB,Sauber BMW,1:22.437,1:21.270,1:22.258,21
+2006,italy,804,qualifying,,7,4,Pedro de la Rosa DLR,McLaren Mercedes,1:22.422,1:21.878,1:22.280,22
+2006,italy,804,qualifying,,8,11,Rubens Barrichello BAR,Honda,1:22.640,1:21.688,1:22.787,21
+2006,italy,804,qualifying,,9,2,Giancarlo Fisichella FIS,Renault,1:22.486,1:21.722,1:23.175,21
+2006,italy,804,qualifying,,10,1,Fernando Alonso ALO,Renault,1:21.747,1:21.526,1:25.688,17
+2006,italy,804,qualifying,,11,8,Jarno Trulli TRU,Toyota,1:22.093,1:21.924,,12
+2006,italy,804,qualifying,,12,10,Nico Rosberg ROS,Williams Cosworth,1:22.581,1:22.203,,11
+2006,italy,804,qualifying,,13,7,Ralf Schumacher RSC,Toyota,1:22.622,1:22.280,,13
+2006,italy,804,qualifying,,14,14,David Coulthard COU,RBR Ferrari,1:22.618,1:22.589,,14
+2006,italy,804,qualifying,,15,21,Scott Speed SPE,STR Cosworth,1:22.943,1:23.165,,17
+2006,italy,804,qualifying,,16,15,Christian Klien KLI,RBR Ferrari,1:22.898,,,6
+2006,italy,804,qualifying,,17,20,Vitantonio Liuzzi LIU,STR Cosworth,1:23.043,,,9
+2006,italy,804,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:23.116,,,5
+2006,italy,804,qualifying,,19,9,Mark Webber WEB,Williams Cosworth,1:23.341,,,6
+2006,italy,804,qualifying,,20,18,Tiago Monteiro MON,MF1 Toyota,1:23.920,,,5
+2006,italy,804,qualifying,,21,22,Takuma Sato SAT,Super Aguri Honda,1:24.289,,,8
+2006,italy,804,qualifying,,22,23,Sakon Yamamoto YAM,Super Aguri Honda,1:26.001,,,4
+2006,china,805,qualifying,,1,1,Fernando Alonso ALO,Renault,1:44.128,1:43.951,1:44.360,21
+2006,china,805,qualifying,,2,2,Giancarlo Fisichella FIS,Renault,1:44.378,1:44.336,1:44.992,19
+2006,china,805,qualifying,,3,11,Rubens Barrichello BAR,Honda,1:47.072,1:45.288,1:45.503,26
+2006,china,805,qualifying,,4,12,Jenson Button BUT,Honda,1:45.809,1:44.662,1:45.503,27
+2006,china,805,qualifying,,5,3,Kimi Räikkönen RAI,McLaren Mercedes,1:44.909,1:45.622,1:45.754,22
+2006,china,805,qualifying,,6,5,Michael Schumacher MSC,Ferrari,1:47.366,1:45.660,1:45.775,24
+2006,china,805,qualifying,,7,4,Pedro de la Rosa DLR,McLaren Mercedes,1:44.808,1:45.095,1:45.877,23
+2006,china,805,qualifying,,8,16,Nick Heidfeld HEI,Sauber BMW,1:46.249,1:45.055,1:46.053,27
+2006,china,805,qualifying,,9,17,Robert Kubica KUB,Sauber BMW,1:46.049,1:45.576,1:46.632,26
+2006,china,805,qualifying,,10,15,Robert Doornbos DOO,RBR Ferrari,1:46.387,1:45.747,1:48.021,24
+2006,china,805,qualifying,,11,21,Scott Speed SPE,STR Cosworth,1:46.222,1:45.851,,15
+2006,china,805,qualifying,,12,14,David Coulthard COU,RBR Ferrari,1:45.931,1:45.968,,15
+2006,china,805,qualifying,,13,6,Felipe Massa MAS,Ferrari,1:47.231,1:45.970,,15
+2006,china,805,qualifying,,14,20,Vitantonio Liuzzi LIU,STR Cosworth,1:45.564,1:46.172,,15
+2006,china,805,qualifying,,15,9,Mark Webber WEB,Williams Cosworth,1:48.560,1:46.413,,18
+2006,china,805,qualifying,,16,10,Nico Rosberg ROS,Williams Cosworth,1:47.535,1:47.419,,18
+2006,china,805,qualifying,,17,7,Ralf Schumacher RSC,Toyota,1:48.894,,,9
+2006,china,805,qualifying,,18,8,Jarno Trulli TRU,Toyota,1:49.098,,,9
+2006,china,805,qualifying,,19,18,Tiago Monteiro MON,MF1 Toyota,1:49.903,,,6
+2006,china,805,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:50.326,,,6
+2006,china,805,qualifying,,21,23,Sakon Yamamoto YAM,Super Aguri Honda,1:55.560,,,7
+2006,japan,806,qualifying,,1,6,Felipe Massa MAS,Ferrari,1:30.112,1:29.830,1:29.599,16
+2006,japan,806,qualifying,,2,5,Michael Schumacher MSC,Ferrari,1:31.279,1:28.954,1:29.711,17
+2006,japan,806,qualifying,,3,7,Ralf Schumacher RSC,Toyota,1:30.595,1:30.299,1:29.989,19
+2006,japan,806,qualifying,,4,8,Jarno Trulli TRU,Toyota,1:30.420,1:30.204,1:30.039,19
+2006,japan,806,qualifying,,5,1,Fernando Alonso ALO,Renault,1:30.976,1:30.357,1:30.371,16
+2006,japan,806,qualifying,,6,2,Giancarlo Fisichella FIS,Renault,1:31.696,1:30.306,1:30.599,17
+2006,japan,806,qualifying,,7,12,Jenson Button BUT,Honda,1:30.847,1:30.268,1:30.992,22
+2006,japan,806,qualifying,,8,11,Rubens Barrichello BAR,Honda,1:31.972,1:30.598,1:31.478,21
+2006,japan,806,qualifying,,9,16,Nick Heidfeld HEI,Sauber BMW,1:31.811,1:30.470,1:31.513,18
+2006,japan,806,qualifying,,10,10,Nico Rosberg ROS,Williams Cosworth,1:30.585,1:30.321,1:31.856,22
+2006,japan,806,qualifying,,11,3,Kimi Räikkönen RAI,McLaren Mercedes,1:32.080,1:30.827,,9
+2006,japan,806,qualifying,,12,17,Robert Kubica KUB,Sauber BMW,1:31.204,1:31.094,,8
+2006,japan,806,qualifying,,13,4,Pedro de la Rosa DLR,McLaren Mercedes,1:31.581,1:31.254,,12
+2006,japan,806,qualifying,,14,9,Mark Webber WEB,Williams Cosworth,1:31.647,1:31.276,,11
+2006,japan,806,qualifying,,15,20,Vitantonio Liuzzi LIU,STR Cosworth,1:31.741,1:31.943,,14
+2006,japan,806,qualifying,,16,19,Christijan Albers ALB,MF1 Toyota,1:32.221,1:33.750,,13
+2006,japan,806,qualifying,,17,14,David Coulthard COU,RBR Ferrari,1:32.252,,,6
+2006,japan,806,qualifying,,18,15,Robert Doornbos DOO,RBR Ferrari,1:32.402,,,7
+2006,japan,806,qualifying,,19,21,Scott Speed SPE,STR Cosworth,1:32.867,,,7
+2006,japan,806,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:33.666,,,6
+2006,japan,806,qualifying,,21,18,Tiago Monteiro MON,MF1 Toyota,1:33.709,,,3
+2006,japan,806,qualifying,,22,23,Sakon Yamamoto YAM,Super Aguri Honda,DNF,,,2
+2006,brazil,807,qualifying,,1,6,Felipe Massa MAS,Ferrari,1:10.643,1:10.775,1:10.680,19
+2006,brazil,807,qualifying,,2,3,Kimi Räikkönen RAI,McLaren Mercedes,1:12.035,1:11.386,1:11.299,21
+2006,brazil,807,qualifying,,3,8,Jarno Trulli TRU,Toyota,1:11.885,1:11.343,1:11.328,26
+2006,brazil,807,qualifying,,4,1,Fernando Alonso ALO,Renault,1:11.791,1:11.148,1:11.567,19
+2006,brazil,807,qualifying,,5,11,Rubens Barrichello BAR,Honda,1:12.017,1:11.578,1:11.619,26
+2006,brazil,807,qualifying,,6,2,Giancarlo Fisichella FIS,Renault,1:12.042,1:11.461,1:11.629,22
+2006,brazil,807,qualifying,,7,7,Ralf Schumacher RSC,Toyota,1:11.713,1:11.550,1:11.695,27
+2006,brazil,807,qualifying,,8,16,Nick Heidfeld HEI,Sauber BMW,1:12.307,1:11.648,1:11.882,23
+2006,brazil,807,qualifying,,9,17,Robert Kubica KUB,Sauber BMW,1:12.040,1:11.589,1:12.131,22
+2006,brazil,807,qualifying,,10,5,Michael Schumacher MSC,Ferrari,1:11.565,1:10.313,DNS,7
+2006,brazil,807,qualifying,,11,9,Mark Webber WEB,Williams Cosworth,1:11.973,1:11.650,,11
+2006,brazil,807,qualifying,,12,4,Pedro de la Rosa DLR,McLaren Mercedes,1:11.825,1:11.658,,12
+2006,brazil,807,qualifying,,13,10,Nico Rosberg ROS,Williams Cosworth,1:11.974,1:11.679,,12
+2006,brazil,807,qualifying,,14,12,Jenson Button BUT,Honda,1:12.085,1:11.742,,10
+2006,brazil,807,qualifying,,15,15,Robert Doornbos DOO,RBR Ferrari,1:12.530,1:12.591,,10
+2006,brazil,807,qualifying,,16,20,Vitantonio Liuzzi LIU,STR Cosworth,1:12.855,1:12.861,,15
+2006,brazil,807,qualifying,,17,21,Scott Speed SPE,STR Cosworth,1:12.856,,,8
+2006,brazil,807,qualifying,,18,19,Christijan Albers ALB,MF1 Toyota,1:13.138,,,7
+2006,brazil,807,qualifying,,19,14,David Coulthard COU,RBR Ferrari,1:13.249,,,7
+2006,brazil,807,qualifying,,20,22,Takuma Sato SAT,Super Aguri Honda,1:13.269,,,7
+2006,brazil,807,qualifying,,21,23,Sakon Yamamoto YAM,Super Aguri Honda,1:13.357,,,10
+2006,brazil,807,qualifying,,22,18,Tiago Monteiro MON,MF1 Toyota,DNF,,,2
